@@ -63,6 +63,14 @@ public final class AboutActivity extends Activity implements ImageGetter {
 			}
 		});
 
+		b = (Button) findViewById(R.id.about_button5);
+		b.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				tv.setText(Html.fromHtml(res.getString(R.string.about_founders), AboutActivity.this, null));
+			}
+		});
+
 		tv.setMovementMethod(LinkMovementMethod.getInstance());
 
 		TextView t = (TextView) findViewById(R.id.about_version);

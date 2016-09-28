@@ -122,12 +122,12 @@
  </tileset>
  <layer name="Ground" width="10" height="10">
   <data encoding="base64" compression="zlib">
-   eJw7ysbAcHSQ4ydUNOsEEqalultkmgcAw35PpQ==
+   eJw7ysbAcHQQ4wYOBoYnVDTvBBKmpbpbZJoHAISsT2I=
   </data>
  </layer>
  <layer name="Objects" width="10" height="10">
   <data encoding="base64" compression="zlib">
-   eJxjYMAOktlxSNAYSFDRXlsm6plFLwAA6HwAyQ==
+   eJyby88AB7FI7JvMDBSDbDLMyOQnrIZYYMtEPbNIBfPI9AcAQ5QDxw==
   </data>
  </layer>
  <layer name="Above" width="10" height="10">
@@ -140,7 +140,7 @@
    eJxjYBi+wFVgoF1AOgAAPUQAVg==
   </data>
  </layer>
- <objectgroup name="Object Layer 1">
+ <objectgroup name="Object Layer 1" width="0" height="0">
   <object name="debugsign" type="sign" x="192" y="96" width="32" height="32"/>
   <object name="start" type="rest" x="96" y="64" width="32" height="32"/>
   <object name="Unopenable key area" type="key" x="32" y="128" width="32" height="32">
@@ -181,13 +181,13 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn">
-  <object name="insect" type="spawn" x="96" y="128" width="192" height="160">
+ <objectgroup name="Spawn" width="0" height="0">
+  <object name="debug_insect" type="spawn" x="96" y="128" width="192" height="160">
    <properties>
-    <property name="quantity" value="2"/>
+    <property name="quantity" value="15"/>
    </properties>
   </object>
-  <object name="troll" type="spawn" x="256" y="256" width="64" height="64">
+  <object name="debug_troll" type="spawn" x="256" y="256" width="64" height="64">
    <properties>
     <property name="quantity" value="3"/>
    </properties>

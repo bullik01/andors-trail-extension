@@ -7,19 +7,24 @@
 
 	<ImageButton
 		android:id="@+id/status_image"
+		android:scaleType="fitCenter"
+		android:padding="8dp"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_alignParentLeft="true"
 		android:layout_centerVertical="true"
-		android:layout_margin="3sp"
+		android:layout_margin="0sp"
 		/>
 
 	<ImageButton
 		android:id="@+id/toolbox_toggle"
+		android:scaleType="fitCenter"
+		android:padding="8dp"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_alignParentRight="true"
 		android:layout_centerVertical="true"
+		android:layout_margin="0sp"
 		/>
 
 	<LinearLayout

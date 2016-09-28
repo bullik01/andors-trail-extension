@@ -127,7 +127,7 @@
  </layer>
  <layer name="Objects" width="20" height="19">
   <data encoding="base64" compression="zlib">
-   eJy1U0tKA0EQrWpdyTRxM8wJ9AoewNzBZVY5QgJuDS7MAZSJXiAXCB7CIwSE4CpGXQuS2I+qptuZnvzUB8P8X9Wr94ro//DERGVLrt/5d1x37v8vd4yVb7kFX8npuqeG6OMg3LetnCcZ0YlZz5mqe3FMtHJ8j+7/eSbPeo5zodcpTvSA788ON9csjPQGDLiZE7Whpdxh1uB+zerPuzqTmz18A+dLhRPz9nXeEvW2hde2Uv8urcxxV8zVa+jrNMxgE0aV2aC3IYu+W2TPnWfu6Nu6X3EuY798P8gOekKNz6Pw3mv1/ngstfaVcoHD83pteaQR+Syi+0l0jWz2NUcdK15il9HTkEOfeA995zZ4ijyjx9z85I5z9KC73FMN8CKV2bxhL7Bv1yy6BpFGzPuew97BA3AvuO7VOhQmaKzOBpjyfntR5X/OJL9Ak9a/xjfsBE5i
+   eJy1U0tOwzAQnTGsUKyyiXICuAIHgDuw7KpHaCW2VCzaA4ACXIALVByiR6iEVLEqBdZIqMVPM5bdxOkPGCmKY8dv5s17Q/R/MWaisiXrD/4d1p27/+2eJ8VbbIFXcjrvqSH6PAjfF1beo4zoxKzHTOW9PCZaOrxnd3+WyV7XYc51ncJEDfj/7HBzzsJIbYg+N2MiN7iUO/Qa2G9Zfb+jPRnsoRswXyuY6LfP857It214bkvV78pKH3eNmWoNfu2GHmyK+0pvUNuQhd8tvOfeU/f0bF2v2JexXr4eeAc1IcfXUTj3XAetVbyF5r5WLGB4XM8tjzjCn0X0PYrW8GZPfdS2oiVmGTUNOdSJc/A7t0FT+Bk15mYVO/bRo85yVz0GLVKezRvmAvN2w8KrH3FEvx84zB00APac61qti8IEjtXeICa831xU8V8y8S+iietfxw9AYU6I
   </data>
  </layer>
  <layer name="Above" width="20" height="19">
@@ -137,18 +137,24 @@
  </layer>
  <layer name="Walkable" width="20" height="19">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB1CGASoaRYyoIWZtHIvLjlKzKVmWNPCjbQ0j9I4w2UeueGIrAfdXaSah64XGyDVPdjkSHEXLvuJdRM+P5DqN1LTBznm4TKfmmYSgwFRnmXw
+   eJxzFWBgcB1CGASoaRYyoIWZtHIvLjlKzKVmWNPCjbQ0j9I4w2UeueGIrAfdXaS6EZteUv2L7h5scuS4Cd1+Yt2Ezw+k+o3U9EGOebjMp6aZxGAAlQdlmw==
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="up lodar1cave0" type="mapchange" x="128" y="64" width="32" height="32">
    <properties>
     <property name="map" value="lodar1"/>
     <property name="place" value="down lodar1"/>
    </properties>
   </object>
+  <object name="down" type="mapchange" x="576" y="352" width="32" height="32">
+   <properties>
+    <property name="map" value="shortcut_lodar4"/>
+    <property name="place" value="up"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="mudfiend" type="spawn" x="224" y="128" width="64" height="64"/>
   <object name="mudfiend" type="spawn" x="320" y="224" width="32" height="160"/>
   <object name="mudfiend" type="spawn" x="448" y="160" width="128" height="192">
@@ -169,5 +175,5 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Keys"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

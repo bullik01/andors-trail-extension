@@ -123,6 +123,9 @@
  <tileset firstgid="4917" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
+ <tileset firstgid="5045" name="map_rock_2" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_rock_2.png" width="512" height="256"/>
+ </tileset>
  <layer name="Ground" width="20" height="22">
   <data encoding="base64" compression="zlib">
    eJw7ysbAcJQIfByKiVE7at7QdONgN28ouHHUz4PPPFq6kVbupKbZtHLrUMAAijVdTA==
@@ -130,20 +133,30 @@
  </layer>
  <layer name="Objects" width="20" height="22">
   <data encoding="base64" compression="zlib">
-   eJyNVMFKAzEQTTxPYItfoL9i/0L/wVMFRb14E736Zyq4XSitIGxtsfbWYjHPZMhsOrvrQEg2m0zevPcSMzDmwLfvQu8XZMypH3Oc+XFFYTx0xsyoueeraM+F3g5SvppCPsSJC32+x/TgQyDfJyV8Nem5NHw2O0PiQ9z68U2xv4a/8/kP31868d/HvZ87920uMEp8K4FL4uP5VTbPNSNGLubr4EmrUat56BK+N9JzYm1JCY+NeKYCg8QHLZjDSskpa0Mu+AD5J5QwYJ45lDpvhM5cU0MbEdal9WsKtTLGOxvylQKfxj1yP/v+Je7je4AYx3ty4Zq+kbxo3t1GLD++P3TBPxNq+mYpaq7iuq6cHMwVap8WSZc682HJdfR4ZCnqhTaV8jZsKPloS/u88XeV3dG/44Umc+EbcPMa5zXPXCl3NL97T7apC9eg8Yc9j1xXxsFa1Mz8Iud1bG2awB/QYSc8jfPhd5z3kGnNHLTdY8S7WDuLY/BaRr64dsTIJf6kBgvh+Z2iCQe0BDbGyq3vrep6txFHHtexS9+57/77hrX1vwSExyo=
+   eJyFVcFKw0AQ3XjexYR8gf6KvfoF9epFEE8VFPXiTfTqt/gLfoCKjcHQCkJri7a3Fovz3B12smySB8ts0szsm3kzW5UptUVrkcbtTCvVpz3jgPaltvueUWqs6z7faXMs2CTz8SbaxgP2jLWhj+rgByDel/b8Jjoea8F5ZHU+4bPM94r2l2mzz0OuVOV+x/tP2p8Z/ztwQ+9OaE0FR8nvR9StDWHOwMC4eA11eswbgkVy7hnPb6jjMYEjsscB15HgIPlBC65hGYkpgVz2nV+lPQfw4xpKnVdCZ9YkBvZhLLXNlTleJzZeIfixJu/aahoDc32lGg9zG+/U1ZBzHrVoA6wdl1/BsXJ7znkuckYNc9MeM4bDbWv7Yj64Dws+u2Mu5oIjtCkjd8NK+z5aa+/7RPY59c9lMKP/xwtNpqJvUJsX9z6cF8Q6j8xoOHv3SV0XziFWP/jcNdwVS5Ez9xViXrjVpMkbfZtQfhvR0zgf9x7Ouw205hqEd6ecsQ/x7djtUdfC1YtzBwbG109qMBM9v4lowoCW4MZceYV3mNSm694GdojXrvHPYd+19WPXfwPsH1Njs08=
+  </data>
+ </layer>
+ <layer name="Objects_replace" width="20" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgw3c42FgEOGFsGE0ueCkMMJMEKYUgMzIEmBgyBVAuI0Sc0FmwPSXAtm+ApS7EQRUKAy3UTAKRsHQBwBHiQjk
   </data>
  </layer>
  <layer name="Above" width="20" height="22">
   <data encoding="base64" compression="zlib">
-   eJxjYMAPPgrgl/9AQJ4UQI5ZuNxHTXdRAmjhPkJxQgy4RMPwoYb7iAX4whHkjqNAfIwE99AyXNABvnAi1x0gM0FhQmkc4Ao3Ys0+jkMvLj4t0gw5Zg6UO7CFF7FmUiO+YWaixwm1zMZlFzpNbQAA3vsswQ==
+   eJxjYMAPPgrgl/9AQJ4UQI5ZuNyHz6wLVHQzDBzHYSap7jsGFH/Iw8DAI8jAwAvEojyY6gnFCTK4JgBxmwzQLFlBhFsvkRkGIL3XoW405mVgMAFiS0FUNaS4zxLqx6MCEL//JNFd6OH4EBpeVwUgficVoIcLyC8gO0jxE7GAVmZSw72w+EAHxJqNLT+gxxW5aZpYQI6ZA+UOXOUHMWZSK33C0g46n9bpFJmmNgAAERc9Rw==
   </data>
  </layer>
- <layer name="Walkable" width="20" height="22" visible="0">
+ <layer name="Walkable" width="20" height="22">
   <data encoding="base64" compression="zlib">
-   eJzN0dEJACAIBNBGaCn3X6nfEE7P06Cgj8heJ9pey5Idrezta286GzInrZ/yTZi+ttMzqlfMqF7Nx+RhPVQ7ad5vOm6lZ8b094yDPPSXko/JX/E6c0YeMqNz5ikzyTzlL9VD+wAaMFEF
+   eJy908kNACAIBVFKsCn7b8m7Eb6MoIkHE3iCyxxmU8xoqNxur7o2z8zmV9enTNprh/na8ymeml581qKDntNvU7nUVtatvf+ByMrUq3Iq3rcXQ+qLzGitPHInyiN7Uc+bC7mATwc=
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <layer name="layer_replace" width="20" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqGHwAABuAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="north" type="mapchange" x="288" y="0" width="224" height="32">
    <properties>
     <property name="map" value="roadbeforecrossroads4"/>
@@ -156,9 +169,16 @@
     <property name="place" value="west"/>
    </properties>
   </object>
+  <object name="sign_pathway_fallhaven" type="sign" x="320" y="384" width="32" height="32"/>
+  <object name="west" type="mapchange" x="0" y="160" width="32" height="96">
+   <properties>
+    <property name="map" value="fallhaven_ne"/>
+    <property name="place" value="east"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Spawn">
-  <object name="forestboar3" type="spawn" x="96" y="224" width="192" height="192">
+ <objectgroup name="Spawn" width="0" height="0">
+  <object name="forestboar3" type="spawn" x="128" y="288" width="192" height="192">
    <properties>
     <property name="quantity" value="3"/>
    </properties>
@@ -171,5 +191,14 @@
   <object name="forestserpent2" type="spawn" x="512" y="352" width="64" height="96"/>
   <object name="forestboar2" type="spawn" x="352" y="544" width="64" height="96"/>
  </objectgroup>
- <objectgroup name="Keys" visible="0"/>
+ <objectgroup name="Keys" width="0" height="0"/>
+ <objectgroup name="Replace" width="20" height="22">
+  <object name="pathway_fallhaven:50" type="replace" x="0" y="160" width="192" height="160">
+   <properties>
+    <property name="Above" value="layer_replace"/>
+    <property name="Objects" value="Objects_replace"/>
+    <property name="Walkable" value="layer_replace"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>

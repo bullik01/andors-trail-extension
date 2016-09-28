@@ -36,6 +36,8 @@
 		<item>@raw/itemlist_v0611_3</item>
 		<item>@raw/itemlist_v070</item>
 		<item>@raw/itemlist_v070_questitems</item>
+		<item>@raw/itemlist_shortcut_lodar</item>
+		<item>@raw/itemlist_pathway_fallhaven</item>
 	</array>
 
 	<array name="loadresource_droplists">
@@ -55,6 +57,8 @@
 		<item>@raw/droplists_v070_quest</item>
 		<item>@raw/droplists_v070_shops</item>
 		<item>@raw/droplists_v070_mobs</item>
+		<item>@raw/droplists_shortcut_lodar</item>
+		<item>@raw/droplists_pathway_fallhaven</item>
 	</array>
 
 	<array name="loadresource_quests">
@@ -70,6 +74,9 @@
 		<item>@raw/questlist_v070_lodar</item>
 		<item>@raw/questlist_v070_lowyna</item>
 		<item>@raw/questlist_v070_misc</item>
+		<item>@raw/questlist_shortcut_lodar</item>
+		<item>@raw/questlist_pathway_fallhaven</item>
+		<item>@raw/questlist_halvor_surprise</item>
 	</array>
 
 	<array name="loadresource_conversationlists">
@@ -224,6 +231,9 @@
 		<item>@raw/conversationlist_lodarmobs</item>
 		<item>@raw/conversationlist_vilegard_v070</item>
 		<item>@raw/conversationlist_fallhaven_potions</item>
+		<item>@raw/conversationlist_shortcut_lodar</item>
+		<item>@raw/conversationlist_pathway_fallhaven</item>
+		<item>@raw/conversationlist_halvor_surprise</item>
 	</array>
 
 	<array name="loadresource_monsters">
@@ -251,6 +261,8 @@
 		<item>@raw/monsterlist_v070_oldcave</item>
 		<item>@raw/monsterlist_v070_roadcave</item>
 		<item>@raw/monsterlist_v070_npcs</item>
+		<item>@raw/monsterlist_pathway_fallhaven</item>
+		<item>@raw/monsterlist_halvor_surprise</item>
 	</array>
 
 	<array name="loadresource_maps">
@@ -355,8 +367,11 @@
 		<item>@xml/blackwater_mountain3</item>
 		<item>@xml/blackwater_mountain4</item>
 		<item>@xml/blackwater_mountain5</item>
+		<item>@xml/blackwater_mountain5a</item>
+		<item>@xml/blackwater_mountain5c</item>
 		<item>@xml/blackwater_mountain6</item>
 		<item>@xml/blackwater_mountain7</item>
+		<item>@xml/blackwater_mountain7a</item>
 		<item>@xml/blackwater_mountain8</item>
 		<item>@xml/blackwater_mountain9</item>
 		<item>@xml/blackwater_mountain10</item>
@@ -389,6 +404,7 @@
 		<item>@xml/blackwater_mountain37</item>
 		<item>@xml/blackwater_mountain38</item>
 		<item>@xml/blackwater_mountain39</item>
+		<item>@xml/blackwater_mountain39a</item>
 		<item>@xml/blackwater_mountain40</item>
 		<item>@xml/blackwater_mountain41</item>
 		<item>@xml/blackwater_mountain42</item>
@@ -637,5 +653,33 @@
 		<item>@xml/tradehouse0</item>
 		<item>@xml/tradehouse1</item>
 		<item>@xml/tradehouse0a</item>
+		
+		<!-- maps for Lodar shortcut -->
+		<item>@xml/shortcut_lodar0</item>
+		<item>@xml/shortcut_lodar1</item>
+		<item>@xml/shortcut_lodar2</item>
+		<item>@xml/shortcut_lodar3</item>
+		<item>@xml/shortcut_lodar4</item>
+		
+		<!-- maps for Stoutford -->
+		<item>@xml/stoutford_armorer</item>
+		<item>@xml/stoutford_cellar</item>
+		<item>@xml/stoutford_cellar2</item>
+		<item>@xml/stoutford_church</item>
+		<item>@xml/stoutford_cottage1</item>
+		<item>@xml/stoutford_cottage2</item>
+		<item>@xml/stoutford_derelict</item>
+		<item>@xml/stoutford_farmhouse1</item>
+		<item>@xml/stoutford_farmhouse2</item>
+		<item>@xml/stoutford_farmhouse3</item>
+		<item>@xml/stoutford_gate</item>
+		<item>@xml/stoutford_ne</item>
+		<item>@xml/stoutford_nw</item>
+		<item>@xml/stoutford_se</item>
+		<item>@xml/stoutford_sw</item>
+		<item>@xml/stoutford_potion</item>
+		<item>@xml/stoutford_smith</item>
+		<item>@xml/stoutford_smith_basement</item>
+		<item>@xml/stoutford_tavern</item>
 	</array>
 </resources>

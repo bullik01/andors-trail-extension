@@ -4,12 +4,12 @@
 	xmlns:android="http://schemas.android.com/apk/res/android" 
 	package="com.gpl.rpg.AndorsTrail"
 	android:versionCode="42"
-	android:versionName="0.7.2dev"
+	android:versionName="0.7.3RW3_hotfix1"
 	android:installLocation="auto"
 	>
 	<uses-sdk 
 		android:minSdkVersion="4" 
-		android:targetSdkVersion="19"
+		android:targetSdkVersion="22"
 		/>
 	
 	<supports-screens

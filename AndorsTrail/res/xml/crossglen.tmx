@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
 <map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
  <properties>
   <property name="outdoors" value="1"/>
@@ -135,7 +136,7 @@
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9VksKAjEM7Qi6EWUQdOfG43gBT6AeyVMNiAcRFRR0pQGLMb4m6TD1bUabmbz8+toQPtjUoShWb/9N/buWQtNBTIiD1q59/P4NrGu1Ob1s5/rz1L4h3ukA+5kl1hFQXc5KjFqdrR5InAxub39TNb0PQ3gM/fGgvEvPMgLlivqyq0JYvnu7ZD3mv+mdXMQ+5PavDfiMR3BeysXK4Vjp/zUujtL5pjTnH3UuyZs7YxbvZdQ+llxertWT8bct6rXUc6njyM41G/FyrV4I3qjXUs+ljlv2ee+XV0OMs22+HNuM2SJNXYPzKzdfQhczbflYAQ1B36R0KLVfrLNF2onzX+eRnOcu9ujeiJ3XOM6c3KMEdK/ygOeUOhvizMk9SvDeq+Q9zjqHCNr+8cy45luzW/eqdaF5k7yleCRyNdIDeV9Hdg8OYDbRvHqeXmyZ/4g2fvi3hCc2XXBm
+   eJy9VksKAjEMrYJuRBkE3bnxOF5gTqAeyVMNiAcRFRR0pQGLMb4m6TD1beaTmbw0TV4awgebKhRF/fbfMJ6twdl0EFMNfNC76wB/fwPvtdycXrZz9blq/xDvbIj9zBPvEVBezkqMKAceG8LJ4Oaxab5TOb2PQniM/PGgdZeuZQSqZbQvu14Iq/fertge83v6JhdxH3L3rw14jUdwXlqLtYZjT3/WuDhKrzelOf/Ic0ne3BqzeC/j9rHk8nKtnk6+bVGvpZ5LHUd2rtmIl2v1UvBGvR4I3R6KZ8u+6P/yaohxtuGVPWXNXw7S1DWYX3JuWXZCFzVt+aiBhqB/UjqU6hdrtkg75fhf80jWcxc9ujdi5zmOPSZ7lIDOVR7wNaVmQ6w52aME77lKnuOsOUTQ+sdT45pvzW6dq9aF6k3yluKRyNVID+R5Hdk9OIDaRPXquXqxZf4j2vjh/xKeD/Bsmg==
   </data>
  </layer>
  <layer name="Walkable" width="30" height="30" visible="0">
@@ -206,8 +207,9 @@
     <property name="quantity" value="3"/>
    </properties>
   </object>
-  <object name="Odair" type="spawn" x="896" y="32" width="32" height="32"/>
-  <object name="Oromir" type="spawn" x="896" y="864" width="32" height="32"/>
+  <object name="odair" type="spawn" x="896" y="32" width="32" height="32"/>
+  <object name="oromir" type="spawn" x="896" y="864" width="32" height="32"/>
+  <object name="halvor" type="spawn" x="736" y="608" width="32" height="32"/>
  </objectgroup>
  <objectgroup name="Keys"/>
 </map>

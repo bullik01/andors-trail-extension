@@ -86,7 +86,7 @@ function loadResourceFile(filename, onSuccess) {
 	var url = document.location.href;
 	url = url.substring(0, url.lastIndexOf('/'));
 	url = url.substring(0, url.lastIndexOf('/'));
-	url += "/AndorsTrail/res/" + filename;
+	url += "/AndorsTrailEdit/res/" + filename;
 	//var url = "http://andors-trail.googlecode.com/git/AndorsTrail/res/" + filename;
 	$.get(url, function(data) {
 		onSuccess(data);

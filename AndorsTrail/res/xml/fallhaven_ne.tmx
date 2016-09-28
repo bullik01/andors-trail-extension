@@ -123,27 +123,40 @@
  <tileset firstgid="4917" name="map_window_2" tilewidth="32" tileheight="32">
   <image source="../drawable/map_window_2.png" width="512" height="256"/>
  </tileset>
+ <tileset firstgid="5045" name="map_rock_2" tilewidth="32" tileheight="32">
+  <image source="../drawable/map_rock_2.png" width="512" height="256"/>
+ </tileset>
  <layer name="Ground" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztl9ENgjAURcEG+GoijKUb6By6gXEBo4ziAiQuYOIIfpuQ8GlreaGUto+2YqLx4+QVLb29F8KDKo2iyoFZ3h8/5v3fXlAL7ZwLdcO2H74HPr5SMzD/Rt0Yk8kiN+PrV/UNHmVWbP1TIqqKr1/V9+DajiTUry+hfn3BfO2KKNoXwzq13wPTODI2iahwHKpr8gO1TgVl1o3rQE0O7N9UYR7XDdWSqRHeqfXny0B6nde5I9bDep0NW6/E1lvmeqb2u277Ha8y6LqBfn1ztGXllJ9LZrTLygTvBdtEyS/wHgG/MXvu3omoMAbOmQD+M+m6ZCbn1pBuDJqNpItdSzkj3X2mve/Soead4FoysZRJmfWPdajnN6TD9xmG9Uv+/ql7B50S+Lb4tK7xu+YH/aqaT5S1qG0=
+   eJztld0NgjAUhcEGeGoijKUb6By6gXEBo4ziAiQuYOIIPJuQ8GhruWkp/aEtPJDw8OUWKD09h4ZbpVFUObDJ++Pvtn/vDzbQzXlhN0z7oXug4zfWA/M/2I0xmexyPb5+Zd/gUeRA1n8krMr4+pV9D77tSEL9+hLq1xebr0sRRddiWOf2eyMad8IpYRWuQ3V1fqA2KaPM+LgJ1KTA/nUV5lHdUC2RxsKUWisLw9LrvN4dsZ6t15kw9Urbevtczdx+j12/o1XEum6gX98cTVk55eeSGeZZ6aC94JxI+QWeEfAbk/9ujViFMfDMGPBMp+uSmZhbi/gYNFtB1/YtxYxU50x57tKhZo3sWiKxkEmZ9a9VyO+3iOP7D5u6X64skx+GkaoW
   </data>
  </layer>
  <layer name="Objects" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy1V0tOAzEMDRpg1arTcgY+F+AMqPwkYAUbBKLsugAJOAJsWXET4ATABRBShcQIll3QbllUxBqbvLjJ0GnhSVY8mUkc2891agyjbsxU3fjQc6z3U6cLaK6X8rv/AJ5FdDjD0NkVJjkbrv3RVWwuZ/LxruGPwbiWAK3tpU5/qwx/czNlzCPbk/H4L/JQ9twT+hrba0/58sExeIf5UFzK4mDWmG2WHStrdv8tmIvJ4ezoNo6ZJ/cNN3fE62/Zh7UUnjkO8q5TcfpRCbuCp4Dd5apvFyHvCItVf534gL6gTrxEEI+Jl7S+A/lat3OrBdJOfbviA/oi+keIBxzDwjibuC7rtD/6maC5iusXIc7k/xLE9hr2moc4n1u5sHIGuZbnbsU9055nEFeaO4nwWfjaidQM2S3KB8p6REfZV/mTuF4xl2lspT6f6WzvgViGgLwVn7rgm+y7wd8tVHN9AeIc+v0YwFxX/ebUq+F6QfxWn+PUL+E3u5j3kJyWtPum6oVA/a5Zs+9s3WUN/3tdg4MJf5vJrt7j09rs/WWvi9gVTDNXmnPGPCTGPCc+x4qwMjesb9rYtWZyacL7DOqo/U9+aZA/VH/o79cYORs1HoIO8Cpj29tJPr7a3O7W3L1KeIZ8Q72VujHGN+LJE+cuU/4est2u4rLwDPkmerDXMCrTTn9JchGg3VOeD/VKumfGeuhL4nyOYQD3B7GbwRqpay9e6g5Xhx4Vu38W5V3HeRz0R+xFRb0pdqdwjsb/U2CfDfVh7KPYi2Pfhfo33vFDIK5hLjQkzjSG8hFaq+uEbH8DOE+0dQ==
+   eJy1VsFOFEEQbTLAaSb0Lt8geMXEbzALaCKe5EIkLAcTDpIAnwBXT/6J+gWKNy+GODFhAsfVuHr0sKErU2W/ru0ednbhJZWu6Znu6qp6NdXGMDrGzHVMCD3H+h/rdQHNDS2/uw/gWUSHM4ydXWGWs+Ha/7qKzelCPX7ohmM0ri1Aa4fW65f5+Dfv5oz5zPZk3L+LPLQ994y+pvbaVr5ccwyuYD4Wl7Z4tWjMFssLJxtu/+cwl5Ldxclt7DNPPnb93B6vf88+bFh45jjIuzL3+l4Lu4LziN3HRWgXIe8Iq0W4TnxAX1AnXiKIx8RLWl9Cvjbd3HqDHNjQrviAvoh+HeMBx7Axziatyzrtj34maK7i+lWIM/n/EGL7FvZ6AHE+dnLi5AhyLc+D3D/TnkcQV5p7k+Cz8LVM1AzZbcoHymZCR9lR+ZO4njGXaezbkM90tqtILGNA3opPA/BN9n3K360Utb4CcY79P0YwN1D/nE4RrxfEbfU5Tf0SbrOLeY/JYUu7l6peCNTvekvunau7qht+r2twNOO/mezqPX47m8O77HUJu4J55kpv2ZhPmTHfspBjTXiyPK4/c7HrL9TSg/cV1NHBPfmlQf5Q/aG//6bI2aTxEJTAq4ptb2X1+MPl9uWSv1cJz5BvqPetH1N8I56cc+4q5e8u2x0oLgvPkG+iR3sNI5/3+kVWiwDtHvJ8rFfSPZPmRf9qvR8Xmfc5hRHcH8RuBWukroN4Re7ZFdx3Y//JprzrOE+KL64mXkMNTNqPUr0pdqf47myUXHvUD34qP6RfYJ+N9WHso9iLU9+dTPHfJ651ivR7iTONsXzI2jU3PnLyKw9z+dfW+b0B36a6yw==
+  </data>
+ </layer>
+ <layer name="Objects_replace" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYBaNgFIyCgQUnhRkYsgQYGHIF6GOfL9AeEV4Ghns8EL4yL0SMngBmN4weCAAAknIFnQ==
   </data>
  </layer>
  <layer name="Above" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNVkkOwjAMLKroiQMX+BovgCcgfsKT4Ih4STnAGSJkMUTxkthUjFSF1jjDDK6drovFfS7HH0q8NW81yPG1Eo/OI2yWvvwWv8YX583Ji7q1va5OLkRrfXih/c9eTzldUn0cZ+18BE6Xty414P742VuXNby7H3MhpuDaD++Lu+eeaTgsvtccke93FP7lN0nzLrqX4X7SvPPOrNb9onuK1b/oM0fSezFoiT5zlPzTtJVQqxd5SbemrQRNL/HQmnqmxWcNUt2lGPXmU/95vg3iPfd8DJGfHyTd2nskzVBuDll85nLHCXst+TQlpwSap9Lcxe+Qz2m15pWAPlhW5K3JzfEErAZUYQ==
+   eJzNVjEOwjAMDKroRKUylI/AxEd4ATwB8RNeBGWskGBnYoUBJDYcgYWpGjtNTMVJkdu68eVcN44xurj1ef9d8IfOK1LePxL82vMQszxufki+LsB5jeSluqVY+0guitD6iIX0nWNz6tLF1ce6F86HcOmKrUsJND69jq3LNryLH3NRdMG1TF/Dde96JmE1+LZ1aP7fWviXNXH9Tnsvo/G4fhfbs0Ljae8pvvnTPnNYvZWHFu0zR1P+JG1NaKuX8qJuSVsTJL3Ig9bumT55lsDVnfXh3lwmn+dzJd5d4vZR1M8PnG5Oj3QOcfUhnzx32S85nKAPlbCWDYzt2/4aD+AogHc6NOYA18f8ZbGfcn2XvoN5rnK/fm1xhnfHmTGT7PN921rKGxrD4glTt19M
   </data>
  </layer>
- <layer name="Walkable" width="30" height="30" visible="0">
+ <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztk0sKwCAMRD1CL+X9ryRdCBJivmPsooGAYuozmWl/Wut/hvONG8zJreBbo4q99n2aXe0jaZ4Z3Xf1kfg6V/pu7um5tI76lLvTU4P26lqTfW8k6Pw9uiC40rmV5dXJwkX4+nTe4O5mX82tmnvEX5n+tJ5Pc5Ha0tlp/XJ87j6PVzz9ZrlWHblabq29VfPKLrz1CGaWhfA5+t+p4g66zMg4
+   eJztkksKwCAMRD1CL+X9ryRdCBLy/9lFA4EWp75OMvMZY/7t7rduMDe3g6+tLvbpu5rdnSNunpG9U3pPfZ3Lfbff4Tn37M0pdqdFk53VUxP9X0/B+Vv2ksHlzrUs65403IxcV/cNLjX7bm7X3D35iviTPFdzM3cLZyf5xfjYfZasWPxGudo9YlrsGdNrPEtl1VPc6srOeSQ3lVypFxCByOI=
   </data>
  </layer>
- <objectgroup name="Mapevents" visible="0">
+ <layer name="layer_replace" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="west1" type="mapchange" x="0" y="416" width="32" height="64">
    <properties>
     <property name="map" value="fallhaven_nw"/>
@@ -201,14 +214,34 @@
   <object name="sign_fallhaven_ne_grave7" type="sign" x="864" y="352" width="32" height="32"/>
   <object name="sign_fallhaven_ne_grave9" type="sign" x="832" y="448" width="32" height="32"/>
   <object name="sign_fallhaven_ne_grave8" type="sign" x="736" y="448" width="32" height="32"/>
+  <object name="east" type="mapchange" x="928" y="832" width="32" height="96">
+   <properties>
+    <property name="map" value="roadbeforecrossroads5"/>
+    <property name="place" value="west"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Citizens" visible="0">
+ <objectgroup name="Citizens" width="0" height="0">
   <object name="fallhaven_citizen3" type="spawn" x="672" y="224" width="256" height="288"/>
   <object name="fallhaven_citizen6" type="spawn" x="32" y="736" width="608" height="160"/>
   <object name="fallhaven_citizen5" type="spawn" x="352" y="448" width="160" height="448"/>
  </objectgroup>
- <objectgroup name="Keys" visible="0"/>
- <objectgroup name="NPCs" visible="0">
+ <objectgroup name="Keys" width="0" height="0"/>
+ <objectgroup name="NPCs" width="0" height="0">
   <object name="fallhaven_priest" type="spawn" x="352" y="320" width="128" height="64"/>
+  <object name="guard_pathway" type="spawn" x="704" y="864" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Replace" width="30" height="30">
+  <object name="pathway_fallhaven:50" type="replace" x="768" y="832" width="192" height="96">
+   <properties>
+    <property name="Objects" value="Objects_replace"/>
+    <property name="Walkable" value="layer_replace"/>
+   </properties>
+  </object>
+  <object name="pathway_fallhaven:50" type="replace" x="768" y="800" width="192" height="128">
+   <properties>
+    <property name="Above" value="layer_replace"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

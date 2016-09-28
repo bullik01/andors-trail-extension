@@ -235,7 +235,8 @@
         "name": "Jakrar",
         "spawnGroup": "fallhaven_lumberjack",
         "monsterClass": "humanoid",
-        "phraseID": "fallhaven_lumberjack"
+        "phraseID": "fallhaven_lumberjack",
+        "droplistID":"shop_fallhaven_lumberjack"
     },
     {
         "id": "alaun",

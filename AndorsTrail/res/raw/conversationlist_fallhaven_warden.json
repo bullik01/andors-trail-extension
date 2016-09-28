@@ -28,7 +28,18 @@
                         "value": "30"
                     }
                 ]
-            }
+            },
+      {
+        "requires": [
+          {
+            "requireType": "questLatestProgress",
+            "requireID": "pathway_fallhaven",
+            "value": 10
+          }
+        ],
+        "text": "Recently I talked to the watchman who blocks he old pathway to the Duleian Road. Why don't you pay just pay the woodcutter?",
+        "nextPhraseID": "fallhaven_warden_pathway_1"
+      }
         ]
     },
     {
@@ -278,9 +289,20 @@
         "message": "Hello again, kid. Thanks for the drink earlier. I had it all in one go. It sure tasted a bit different than before, but I guess that is just because I'm not used to it anymore.",
         "replies": [
             {
-                "text": "Who is that prisoner?",
-                "nextPhraseID": "warden_prisoner_1"
-            }
+        "text": "That's great! Cheers!",
+        "nextPhraseID": "X"
+      },
+      {
+        "requires": [
+          {
+            "requireType": "questLatestProgress",
+            "requireID": "pathway_fallhaven",
+            "value": 10
+          }
+        ],
+        "text": "Recently I talked to the watchman who blocks he old pathway to the Duleian Road. Why don't you pay just pay the woodcutter?",
+        "nextPhraseID": "fallhaven_warden_pathway_1"
+      }
         ]
     },
     {
@@ -381,7 +403,14 @@
         "replies": [
             {
                 "text": "Yes, they won't expect a thing.",
-                "nextPhraseID": "fallhaven_warden_31"
+                "nextPhraseID": "fallhaven_warden_31",
+                "requires": [
+                    {
+                        "requireType": "questProgress",
+                        "requireID": "farrik",
+                        "value": "80"
+                    }
+                ]
             },
             {
                 "text": "No, not yet. I'm working on it.",
@@ -420,14 +449,66 @@
             }
         ]
     },
-    {
-        "id": "fallhaven_warden_36",
-        "message": "I will make sure to tell other guards how you helped us here in Fallhaven.",
-        "replies": [
-            {
-                "text": "Thank you. Goodbye.",
-                "nextPhraseID": "X"
-            }
-        ]
-    }
+  {
+    "id": "fallhaven_warden_36",
+    "message": "I will make sure to tell other guards how you helped us here in Fallhaven.",
+    "replies": [
+      {
+        "text": "Thank you. Goodbye.",
+        "nextPhraseID": "X"
+      },
+      {
+        "requires": [
+          {
+            "requireType": "questLatestProgress",
+            "requireID": "pathway_fallhaven",
+            "value": 10
+          }
+        ],
+        "text": "Recently I talked to the watchman who blocks he old pathway to the Duleian Road. Why don't you pay just pay the woodcutter?",
+        "nextPhraseID": "fallhaven_warden_pathway_1"
+      }
+    ]
+  },
+  {
+    "id": "fallhaven_warden_pathway_1",
+    "replies": [
+      {
+        "nextPhraseID": "fallhaven_warden_pathway_2",
+        "text": "Would anything change your mind?"
+      }
+    ],
+    "message": "Hah! Jakrar? I should pay Jakrar before he has done his work? No way! Either he does his woodcutting job before I pay him or the passage stays blocked! That's how I always do it. It's the only way to get the job done well."
+  },
+  {
+    "id": "fallhaven_warden_pathway_2",
+    "replies": [
+      {
+        "text": "So where can I find him?",
+        "nextPhraseID": "fallhaven_warden_pathway_3"
+      }
+    ],
+    "message": "No way! Get lost or I'll throw you in jail! Talk to that filthy woodcutter if you want to reopen the path but nothing will change my mind!"
+  },
+  {
+    "id": "fallhaven_warden_pathway_3",
+    "rewards": [
+      {
+        "rewardType": "questProgress",
+        "rewardID": "pathway_fallhaven",
+        "value": 20
+      }
+    ],
+    "replies": [
+      {
+        "text": "Easy. Easy. I'm already leaving.",
+        "nextPhraseID": "X"
+      },
+      {
+        "text": "I wanted to leave your shabby prison anyway.",
+        "nextPhraseID": "X"
+      }
+    ],
+    "message": "He is living in his hut right south of my prison. Don't you bother me again!"
+  }
 ]

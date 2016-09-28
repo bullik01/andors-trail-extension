@@ -122,12 +122,12 @@
  </tileset>
  <layer name="Ground" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJydlOENwiAQhZvG6AasALoB4ga0jtDtnKWOZY1c8vJyB8iPLyENfH3HXRvmaQoGdyDQ+l/SwQI8YB0HXOvBBjxhnYuT82tci+t9rpMpP2eW96QOl7BRZg8+V96jZTvNP1p+r9TKe25Uk6t4e3xJ6YO2T/Ph3TmjN3JPmo97K2e94uccnJGzYb2xuF4XHTmr+XAmJU8uWVs+zCiZcCZ75hiziA9rxZncO1xO6R/6vg7GckW6G6knNnx7ySFo3+xKz2u+2pzL3VizgjnEZ82Rxcj/tdWbEbAWa88H0myrEA==
+   eJydlMENwjAMRasKwZFbVkhggxA2CGWETsQazFLGoohY+vrYSejhSVGVvH7HbsM4DMHgAgRa/0tauQFXWMcNrmllBu6wzsXJ+TVOxfXa18mUnzPLe1KHS5gpswefK+/Rsu3GLy2/V2rlPWeqyVW8Pb6k9EHb9zj++vDunNEbuSctH/dWznrFz3VxRs6G9cbieh505Kzmw5mUPLlkbfkwo2TCmeyZY8wiPqwVZ3LpcDmlf+j7OBjLFelupJ7Y8C0lh6B9sxM9r/lqcy53Y80K5hCfNUcWW/6vrd5sAWux9rwBEYuq3Q==
   </data>
  </layer>
  <layer name="Objects" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYKAvsOWmjjkzGRHs6TwIdhcjplpigBoTA8M2oDkOnAwMy4F0ApC/gwcipsoEUWPPjWk3LrNceFHFXkHdWAoVB5nZBDTHjYcBJxBngvgH5IZUAQaG10BalAlVHkxDzQC5NwzNzdjcNhtqXhmSG5HDTRxJbytU3BnNP8jgHdR+ZLfNQgsjmJ0g0AmUu4/H36Joboe5QRWL36cxQuIDXQ9MDQuau9XQ1CGbuQ3JjcQAZLM6saQJmBtn4/ErCMDSUwUPIh6QxdABsl/fM6Kmx1oBiJ9AbuvA4p8ONPPQw+c/I8QNoHQJMqNOAGImMpjGiOkOXOA11L4wqFveMGI3k1QwlRGSp+5giXvk9AvKs7DwAfnnCQ+melDahuXDt3jiChSuRUD5OYyY6QgbALmDUBglodlHTJjisosa5pAKAOIPMvw=
+   eJxjYKAvsOWmjjkzGRHs6TwIdhcjplpigBoTA8M2oDkOnAwMy4F0ApC/gwcipsoEUWPPjWk3LrNceFHFXkHdWAoVB5nZBDTHjYcBJxBngvgH5IZUAQaG10BalAlVHkxDzQC5NwzNzdjcNhtqXhmSG5HDTRxJbytU3BnNP8jgHdR+ZLfNQgsjmJ0g0MmIMBcbEEVzO0ytKha/T2OExAe6HpgaFjR3q6GpQzZzG5IbiQHIZnVi8Q/MjbPxxDEIwNJTBQ8iHpDF0AGyX98zoqbHWgGIn0Bu68Dinw4089DD5z8jxA2gdAkyo04AYiYymMaI6Q5c4DXUvjCoW94wYjeTVDCVEZKn7mCJe+T0C8qzsPAB+ecJD6Z6UNqG5cO3eOIKFK5FQPk5jJjpCBsAuYNQGCWh2UdMmOKyixrmkAoAZCMylw==
   </data>
  </layer>
  <layer name="Above" width="20" height="20" visible="0">
@@ -135,20 +135,26 @@
    eJwLE2BgCBvFo3gUj+JRPIpJxABVPZ9h
   </data>
  </layer>
- <layer name="Walkable" width="20" height="20" visible="0">
+ <layer name="Walkable" width="20" height="20">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB3FVMeEALnm4bOHGubhcz8hdaSECT411PQ7qfpINY9QOBEKF0LmEeMfWpuHC5BiPyGzSDWPVH3Euo8a6ZIYjCtcyDGLmHRNKwwAb4BknA==
+   eJztksERADAEBJWQpvTfkgo4K/KLmfuxuDk/Zv61LlVTXrVng1fdr/qoJ1nP5u90jvKUT8oXxev885qXFdmvWJRH57r3TXKkcl/52s0xYd5yiAIuGWRH
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="west" type="mapchange" x="0" y="448" width="32" height="96">
    <properties>
     <property name="map" value="lodarcave4"/>
     <property name="place" value="east"/>
    </properties>
   </object>
+  <object name="down" type="mapchange" x="576" y="224" width="32" height="32">
+   <properties>
+    <property name="map" value="shortcut_lodar0"/>
+    <property name="place" value="up"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="hirazinn" type="spawn" x="288" y="256" width="64" height="64"/>
   <object name="hirathil2" type="spawn" x="256" y="320" width="160" height="64">
    <properties>
@@ -165,7 +171,7 @@
     <property name="quantity" value="2"/>
    </properties>
   </object>
-  <object name="hirathil2" type="spawn" x="416" y="128" width="192" height="192">
+  <object name="hirathil2" type="spawn" x="416" y="128" width="128" height="192">
    <properties>
     <property name="quantity" value="4"/>
    </properties>
@@ -176,19 +182,19 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Spawn_bats" visible="0">
-  <object name="cavebat2" type="spawn" x="128" y="96" width="480" height="512">
+ <objectgroup name="Spawn_bats" width="0" height="0">
+  <object name="cavebat2" type="spawn" x="128" y="96" width="416" height="512">
    <properties>
     <property name="quantity" value="4"/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Keys">
+ <objectgroup name="Keys" width="0" height="0">
   <object name="lodar2:35" type="key" x="64" y="448" width="32" height="96">
    <properties>
     <property name="phrase" value="sign_lodarcave4a"/>
-    <property name="requireType" value="questProgress"/>
     <property name="requireId" value="lodar2"/>
+    <property name="requireType" value="questProgress"/>
     <property name="requireValue" value="35"/>
    </properties>
   </object>

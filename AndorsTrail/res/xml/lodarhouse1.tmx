@@ -132,23 +132,26 @@
  </layer>
  <layer name="Above" width="20" height="16">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+SBfAL7+Sm4FhPTeEXseNKb8CTSwch3mnmBHss8zY1WADMPNSCbgTBgipw+U+QiCYhbrm4XInunnI6rDpAYkV8eC2h1z3jZqHMI8fS7qnxDxqAmqbl0Zl86gJAAViDpo=
+   eJxjYKA+SBfAL7+Sm4FhPTeEXseNKb8CTSwch3mnmBHss8zY1WADMPNSCbgTBgipw+U+QiCYhbrm4XInunnI6rDpAYkV8eC2h1z3DRbzfnJR1zxSAcg8fizpnhLzqAmobV4alc2jJgAAF5oPnQ==
   </data>
  </layer>
- <layer name="Walkable" width="20" height="16" visible="0">
+ <layer name="Walkable" width="20" height="16">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB3FBDEI4JNDBtjECMkTYyexenDJE/IDMf4i17+E7EdXQw4g1zxywp0S8/CZjcs8YuxBVofPL6T6F908fOaTax4l/qUkXwMA1yBCFA==
+   eJxzFWBgcB3FBDEI4JNDBtjECMkTYyexenDJE/IDMf4i17+E7CekhhiAzzx87iUn3ElxBz5/E+svYuxBVofPL6T6F908fOaTax4l/iUnP8MwAK8wQ70=
   </data>
  </layer>
- <objectgroup name="Mapevents">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="south" type="mapchange" x="128" y="480" width="32" height="32">
    <properties>
     <property name="map" value="lodarhouse0"/>
     <property name="place" value="lodarhouse"/>
    </properties>
   </object>
+  <object name="rest1" type="rest" x="192" y="288" width="32" height="32"/>
+  <object name="rest2" type="rest" x="224" y="288" width="32" height="32"/>
+  <object name="rest3" type="rest" x="256" y="288" width="32" height="32"/>
  </objectgroup>
- <objectgroup name="Spawn">
+ <objectgroup name="Spawn" width="0" height="0">
   <object name="lodar" type="spawn" x="448" y="96" width="160" height="384"/>
   <object name="vermin" type="spawn" x="32" y="128" width="384" height="320">
    <properties>
@@ -156,5 +159,5 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Keys"/>
+ <objectgroup name="Keys" width="0" height="0"/>
 </map>

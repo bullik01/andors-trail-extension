@@ -130,20 +130,20 @@
  </layer>
  <layer name="Objects" width="20" height="15">
   <data encoding="base64" compression="zlib">
-   eJx9VEFOwzAQtFDFyRbuE+DKCZ7BE4Bre0DiAwg+gOBd/CEias6JaKXk7JZddVceb9yONHJi786O107ugnP3xBSdOxB3xD3xj7iFkWFjahi9c53k7SSe823uphJzDknyEvjD3C7OY24v5jovNP9AfCU25LX1df1R5gcaJ1/ubx3yGqOH9Ub2z1iGIxlcZxFyPdVQbc3poA/qVf2qPubZHK2l+5jg+RR+fc5TfR55Xv2zd6zJ7x144jjs7RvxXfgRyzrLkD3pGSKwDmN15dwTxfxcHvkcy94gD6CJ2oPps9VTNKZ2qmju5e6gz0+a+xJ+w/lb3d7PNRnrUD/vwfjRvuP5Yj9rZ91KjN5prMu+uMY1rd+E8i7X/Fic+iekWPb+MeYetFLT5tb+G/a7/gcmpaa0
+   eJx9VEFOwzAQtBDiZAtX4gNw5QTP4AmUKz0g8QEEH0DwLv4QEZFzo1KpPadlR92VJxuXkUZu17uz43WSmxTCrXDIIeyFa+FOuBL+0gr4nBo2MYRO69aaj3pf+1PJ+Q+D1g3kj2u7PM25PpnqPEn8TvgsbMRrG+v6G433sm7j+HyLVPaAJe03en5glg4E0Oc0lX6mYdpW09EczKv5NX2u8zXWy86xpd/H8B1LneljRdz8wzv3xP+OPCGPZ/sifFW+5XGfWSqe7A4Z3Ad4PA9hLjlfZwc+5PFsmHvSZO3ezdnrGRrXe6ho7vTZYZ/vEvtQftL9e91lnGoCi1S/7975sbnz/fI8a3fdao4909wXvtDjUvavhBfkuebH49g3weKIQf8+lxm02tPX1r4b/r3+A/XFpu0=
   </data>
  </layer>
  <layer name="Above" width="20" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYGBguCDAQBAQo2aoAnL8BtNDiV5k8BYo9k4Ak01NQEkcwtxEK7fhMpsa6Y4W7iUFXCAQboTcR80wf4tkDrKZxNiBngawxQ0hv1IKANDFJF8=
+   eJxjYGBguCDAQBAQo2aoAnL8BtNDiV5k8BYo9k4Ak01NQEkcwtxEK7fhMpsa6Y4W7iUFXCAQboTcR80wf4tkDrKZMDvw2YOeBrDFDSG/UgoAb4QlXQ==
   </data>
  </layer>
  <layer name="Walkable" width="20" height="15">
   <data encoding="base64" compression="zlib">
-   eJxzFWBgcB3EGAaobR46IGQ3LnW4zCIEYGqQaUJuxGUHNj2k+J1YgG4GJWbicxs1zaXUbHzpiBx3kpM2CZmBS4yQfkJi5LqFWPPIyb8AKL4uKA==
+   eJxzFWBgcB3EGAaobR46IGQ3LnW4zCIEYGqQaUJuxGUHNj2k+J1YgG4GJWbicxs1zaXUbHzpiBx3kpM2CZmBS4yQflxmUuIfUswjJ/8CAHhOLtI=
   </data>
  </layer>
- <objectgroup name="Mapevents" visible="0">
+ <objectgroup name="Mapevents" width="0" height="0">
   <object name="west" type="mapchange" x="0" y="64" width="32" height="96">
    <properties>
     <property name="map" value="wild17"/>
@@ -157,8 +157,14 @@
    </properties>
   </object>
   <object name="sign_blackwater0" type="sign" x="288" y="256" width="32" height="32"/>
+  <object name="south" type="mapchange" x="32" y="448" width="192" height="32">
+   <properties>
+    <property name="map" value="stoutford_gate"/>
+    <property name="place" value="north"/>
+   </properties>
+  </object>
  </objectgroup>
- <objectgroup name="Spawn" visible="0">
+ <objectgroup name="Spawn" width="0" height="0" visible="0">
   <object name="forestwolf1" type="spawn" x="64" y="96" width="512" height="320">
    <properties>
     <property name="quantity" value="4"/>
@@ -170,5 +176,5 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup name="Keys" visible="0"/>
+ <objectgroup name="Keys" width="0" height="0" visible="0"/>
 </map>
