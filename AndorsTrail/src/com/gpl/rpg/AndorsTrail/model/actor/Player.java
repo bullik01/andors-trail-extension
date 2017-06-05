@@ -249,7 +249,7 @@ public final class Player extends Actor {
 		case attackCost: return baseTraits.attackCost;
 		case attackChance: return baseTraits.attackChance;
 		case criticalSkill: return baseTraits.criticalSkill;
-		case criticalMultiplier: return (int) FloatMath.floor(baseTraits.criticalMultiplier);
+		case criticalMultiplier: return (int) (float)Math.floor(baseTraits.criticalMultiplier);
 		case damagePotentialMin: return baseTraits.damagePotential.current;
 		case damagePotentialMax: return baseTraits.damagePotential.max;
 		case blockChance: return baseTraits.blockChance;

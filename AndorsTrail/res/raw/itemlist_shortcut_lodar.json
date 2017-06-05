@@ -1,0 +1,9 @@
+[
+  {
+    "id": "vial_activation",
+    "name": "Lodar's activation vial",
+    "displaytype": "quest",
+    "iconID": "items_tometik1:20",
+    "category": "other"
+  }
+]

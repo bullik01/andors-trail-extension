@@ -100,7 +100,7 @@ public final class MonsterTypeParser extends JsonCollectionParserFor<MonsterType
 		if (hitEffect != null && hitEffect.addedConditions_target != null && hitEffect.addedConditions_target.length > 0) {
 			attackConditionBonus += 50;
 		}
-		return (int) FloatMath.ceil((avgAttackHP * 3 + avgDefenseHP) * Constants.EXP_FACTOR_SCALING) + attackConditionBonus;
+		return (int) (float)Math.ceil((avgAttackHP * 3 + avgDefenseHP) * Constants.EXP_FACTOR_SCALING) + attackConditionBonus;
 	}
 	private static int getAttacksPerTurn(int maxAP, int attackCost) {
 		return (int) Math.floor(maxAP / attackCost);

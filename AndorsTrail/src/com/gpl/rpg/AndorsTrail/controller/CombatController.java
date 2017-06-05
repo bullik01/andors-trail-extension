@@ -472,7 +472,7 @@ public final class CombatController implements VisualEffectCompletedCallback {
 
 		float averageDamagePerTurn = getAverageDamagePerTurn(attacker, target);
 		if (averageDamagePerTurn <= 0) return 100;
-		return (int) FloatMath.ceil(target.getMaxHP() / averageDamagePerTurn);
+		return (int) (float)Math.ceil(target.getMaxHP() / averageDamagePerTurn);
 	}
 	public int getMonsterDifficulty(Monster monster) {
 		// returns [0..100) . 100 == easy.

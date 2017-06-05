@@ -71,7 +71,7 @@ public class Actor {
 	public int getEffectiveCriticalChance() { return getEffectiveCriticalChance(getCriticalSkill()); }
 	public static int getEffectiveCriticalChance(int criticalSkill) {
 		if (criticalSkill <= 0) return 0;
-		int v = (int) (-5 + 2 * FloatMath.sqrt(5*criticalSkill));
+		int v = (int) (-5 + 2 * (float)Math.sqrt(5*criticalSkill));
 		if (v < 0) return 0;
 		return v;
 	}

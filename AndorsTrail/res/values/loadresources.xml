@@ -681,5 +681,8 @@
 		<item>@xml/stoutford_smith</item>
 		<item>@xml/stoutford_smith_basement</item>
 		<item>@xml/stoutford_tavern</item>
+
+		<!-- added maps in 0.7.3_DEV_13042017 -->
+		<item>@xml/forest_polygon</item>
 	</array>
 </resources>
