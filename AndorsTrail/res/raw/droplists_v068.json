@@ -1,220 +1,220 @@
 [
     {
-        "id": "sleepingmead",
-        "items": [
+        "id":"sleepingmead",
+        "items":[
             {
-                "itemID": "sleepingmead",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"sleepingmead",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "ff_outsideguard",
-        "items": [
+        "id":"ff_outsideguard",
+        "items":[
             {
-                "itemID": "ffguard_qitem",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"ffguard_qitem",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"vial_empty1",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "shield1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"shield1",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ironsword1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"ironsword1",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "beetle2",
-        "items": [
+        "id":"beetle2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 12
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":12
+                }
             },
             {
-                "itemID": "shell",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"shell",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "shadowgarg1",
-        "items": [
+        "id":"shadowgarg1",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 5,
-                    "max": 12
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":5,
+                    "max":12
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"gem2",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "shadowgarg2",
-        "items": [
+        "id":"shadowgarg2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 3,
-                    "max": 19
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":3,
+                    "max":19
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"gem2",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"health",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "rock",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"rock",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "shadowgarg3",
-        "items": [
+        "id":"shadowgarg3",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 16,
-                    "max": 23
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":16,
+                    "max":23
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"gem2",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gem3",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem3",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"health",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "rock",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"rock",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring_shadow0",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/10000"
+                "itemID":"ring_shadow0",
+                "chance":"1/10000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "maelveon",
-        "items": [
+        "id":"maelveon",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 52,
-                    "max": 52
-                },
-                "chance": 100
+                "itemID":"gold",
+                "chance":"100",
+                "quantity":{
+                    "min":52,
+                    "max":52
+                }
             },
             {
-                "itemID": "gem3",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"gem3",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 2,
-                    "max": 2
-                },
-                "chance": 100
+                "itemID":"health",
+                "chance":"100",
+                "quantity":{
+                    "min":2,
+                    "max":2
+                }
             },
             {
-                "itemID": "armor_stone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"armor_stone",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     }

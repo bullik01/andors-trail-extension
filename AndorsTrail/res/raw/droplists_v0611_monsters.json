@@ -1,576 +1,576 @@
 [
     {
-        "id": "lonelyhouse_sp",
-        "items": [
+        "id":"lonelyhouse_sp",
+        "items":[
             {
-                "itemID": "algangror_rat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"algangror_rat",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "irdegh_spawn",
-        "items": [
+        "id":"irdegh_spawn",
+        "items":[
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"meat",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gland",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gland",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "irdegh",
-        "items": [
+        "id":"irdegh",
+        "items":[
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gland",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gland",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "irdegh",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"irdegh",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "irdegh_b",
-        "items": [
+        "id":"irdegh_b",
+        "items":[
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gland",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gland",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "irdegh",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"irdegh",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring_crude_combat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"ring_crude_combat",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "scaradon",
-        "items": [
+        "id":"scaradon",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 4
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":4
+                }
             },
             {
-                "itemID": "shell",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"shell",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gem1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"gem1",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "scaradon_b",
-        "items": [
+        "id":"scaradon_b",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 12
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":12
+                }
             },
             {
-                "itemID": "shell",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"shell",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gem1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"gem1",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring_rough_life",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"ring_rough_life",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "burrower",
-        "items": [
+        "id":"burrower",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 3
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":3
+                }
             },
             {
-                "itemID": "shell",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"shell",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gem1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"gem1",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "mwolf",
-        "items": [
+        "id":"mwolf",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 5
-                },
-                "chance": 50
+                "itemID":"gold",
+                "chance":"50",
+                "quantity":{
+                    "min":1,
+                    "max":5
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gem2",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"hair",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "mwolf_b",
-        "items": [
+        "id":"mwolf_b",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 12
-                },
-                "chance": 50
+                "itemID":"gold",
+                "chance":"50",
+                "quantity":{
+                    "min":1,
+                    "max":12
+                }
             },
             {
-                "itemID": "gem4",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 20
+                "itemID":"gem4",
+                "chance":"20",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"meat",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"hair",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "arulir",
-        "items": [
+        "id":"arulir",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 12
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":12
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "arulir_skin",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"arulir_skin",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "maonit",
-        "items": [
+        "id":"maonit",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 7
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":7
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring_crude_block",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"ring_crude_block",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "allaceph",
-        "items": [
+        "id":"allaceph",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 20
-                },
-                "chance": 30
+                "itemID":"gold",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":20
+                }
             },
             {
-                "itemID": "gem1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gem1",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"health",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "vial_empty2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"vial_empty2",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "allaceph_b",
-        "items": [
+        "id":"allaceph_b",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 20
-                },
-                "chance": 30
+                "itemID":"gold",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":20
+                }
             },
             {
-                "itemID": "gem4",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"gem4",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 30
+                "itemID":"health",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "vial_empty2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"vial_empty2",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "mbrute",
-        "items": [
+        "id":"mbrute",
+        "items":[
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"ring1",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "mbrute_b",
-        "items": [
+        "id":"mbrute_b",
+        "items":[
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "ring1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"ring1",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "erumen",
-        "items": [
+        "id":"erumen",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 3
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":3
+                }
             },
             {
-                "itemID": "gem1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem1",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "erumen_b",
-        "items": [
+        "id":"erumen_b",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 9
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":9
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 30
+                "itemID":"gem2",
+                "chance":"30",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "plaguespider",
-        "items": [
+        "id":"plaguespider",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 3
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":3
+                }
             },
             {
-                "itemID": "gland",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"gland",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "spider",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"spider",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "plaguespider_b",
-        "items": [
+        "id":"plaguespider_b",
+        "items":[
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 0,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health",
+                "chance":"10",
+                "quantity":{
+                    "min":0,
+                    "max":1
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"vial_empty1",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "valugha_gown",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/1000"
+                "itemID":"valugha_gown",
+                "chance":"1/1000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "valugha_hat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/1000"
+                "itemID":"valugha_hat",
+                "chance":"1/1000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     }

@@ -1,522 +1,522 @@
 [
     {
-        "id": "kazaul_1",
-        "items": [
+        "id":"kazaul_1",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 3,
-                    "max": 19
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":3,
+                    "max":19
+                }
             },
             {
-                "itemID": "gem4",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem4",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health_minor",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "rock",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"rock",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "kazaul_2",
-        "items": [
+        "id":"kazaul_2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 6,
-                    "max": 25
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":6,
+                    "max":25
+                }
             },
             {
-                "itemID": "gem5",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem5",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "rock",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"rock",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "rapier_lifesteal",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/10000"
+                "itemID":"rapier_lifesteal",
+                "chance":"1/10000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "restless_dead_1",
-        "items": [
+        "id":"restless_dead_1",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 20,
-                    "max": 29
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":20,
+                    "max":29
+                }
             },
             {
-                "itemID": "gem3",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem3",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health_minor",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "restless_dead_2",
-        "items": [
+        "id":"restless_dead_2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 20,
-                    "max": 29
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":20,
+                    "max":29
+                }
             },
             {
-                "itemID": "gem4",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"gem4",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gloves_life",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/1000"
+                "itemID":"gloves_life",
+                "chance":"1/1000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "cave_serpent",
-        "items": [
+        "id":"cave_serpent",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 3,
-                    "max": 10
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":3,
+                    "max":10
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "gland",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"gland",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "gornaud_1",
-        "items": [
+        "id":"gornaud_1",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 30
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":30
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "gornaud_2",
-        "items": [
+        "id":"gornaud_2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 40
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":40
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "gornaud_3",
-        "items": [
+        "id":"gornaud_3",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 45
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":45
+                }
             },
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 3
-                },
-                "chance": 5
+                "itemID":"meat",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":3
+                }
             },
             {
-                "itemID": "hair",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"hair",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "bwm_brew",
-                "quantity": {
-                    "min": 10,
-                    "max": 10
-                },
-                "chance": 5
+                "itemID":"bwm_brew",
+                "chance":"5",
+                "quantity":{
+                    "min":10,
+                    "max":10
+                }
             }
         ]
     },
     {
-        "id": "wyrm_1",
-        "items": [
+        "id":"wyrm_1",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 30
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":30
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"vial_empty1",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"health_minor",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "wyrm_2",
-        "items": [
+        "id":"wyrm_2",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 40
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":40
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"vial_empty1",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"health_minor",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             }
         ]
     },
     {
-        "id": "wyrm_3",
-        "items": [
+        "id":"wyrm_3",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 60
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":60
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"vial_empty1",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"health",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "bwm_claws",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 10
+                "itemID":"bwm_claws",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "wyrm_4",
-        "items": [
+        "id":"wyrm_4",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 60
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":60
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"vial_empty1",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "pot_poison_weak",
-                "quantity": {
-                    "min": 1,
-                    "max": 3
-                },
-                "chance": 5
+                "itemID":"pot_poison_weak",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":3
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"health_minor",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "elytharan_redeemer",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": "1/10000"
+                "itemID":"elytharan_redeemer",
+                "chance":"1/10000",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "aulaeth",
-        "items": [
+        "id":"aulaeth",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 1,
-                    "max": 5
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":1,
+                    "max":5
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 3
-                },
-                "chance": 10
+                "itemID":"bone",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":3
+                }
             },
             {
-                "itemID": "vial_empty1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 25
+                "itemID":"vial_empty1",
+                "chance":"25",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 10
+                "itemID":"health",
+                "chance":"10",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "bwm_dagger",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"bwm_dagger",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "bwm_ironsword",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 1
+                "itemID":"bwm_ironsword",
+                "chance":"1",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "pot_speed_1",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 5
+                "itemID":"pot_speed_1",
+                "chance":"5",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     }

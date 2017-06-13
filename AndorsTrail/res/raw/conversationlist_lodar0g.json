@@ -1,156 +1,156 @@
 [
     {
-        "id": "lodar0_g0",
-        "replies": [
+        "id":"lodar0_g0",
+        "message":"Teehee. You funny looking.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar0_g1"
+                "text":"N",
+                "nextPhraseID":"lodar0_g1"
             }
-        ],
-        "message": "Teehee. You funny looking."
+        ]
     },
     {
-        "id": "lodar0_g1",
-        "replies": [
+        "id":"lodar0_g1",
+        "message":"He he, but funny not enough to let you pass.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar0_g2"
+                "text":"N",
+                "nextPhraseID":"lodar0_g2"
             }
-        ],
-        "message": "He he, but funny not enough to let you pass."
+        ]
     },
     {
-        "id": "lodar0_g2",
-        "rewards": [
+        "id":"lodar0_g2",
+        "message":"Master says only ones with password can pass. You have password?",
+        "replies":[
             {
-                "rewardID": "lodar",
-                "value": 40,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "text": "No, I don't have the password.",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"No, I don't have the password.",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "'Giant'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'Giant'",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "'Bones'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'Bones'",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "[Lie] Your master has allowed me to get through without the password.",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"[Lie] Your master has allowed me to get through without the password.",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "'By the moon and stars, the path is laid clear to me.'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'By the moon and stars, the path is laid clear to me.'",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "'Lord Geomyr'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'Lord Geomyr'",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "text": "'The Shadow'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'The Shadow'",
+                "nextPhraseID":"lodar0_gfail"
             },
             {
-                "requires": [
+                "text":"'Glow of the Shadow'",
+                "nextPhraseID":"lodar0_g3",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lodar",
-                        "value": "20"
+                        "requireType":"questProgress",
+                        "requireID":"lodar",
+                        "value":20
                     }
-                ],
-                "text": "'Glow of the Shadow'",
-                "nextPhraseID": "lodar0_g3"
+                ]
             },
             {
-                "text": "'Password'",
-                "nextPhraseID": "lodar0_gfail"
+                "text":"'Password'",
+                "nextPhraseID":"lodar0_gfail"
             }
         ],
-        "message": "Master says only ones with password can pass. You have password?"
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"lodar",
+                "value":40
+            }
+        ]
     },
     {
-        "id": "lodar0_gfail",
-        "replies": [
+        "id":"lodar0_gfail",
+        "message":"You not know password! Teehee.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar0_gfail1"
+                "text":"N",
+                "nextPhraseID":"lodar0_gfail1"
+            }
+        ]
+    },
+    {
+        "id":"lodar0_gfail1",
+        "message":"[The guardian pushes you away and shakes its head]"
+    },
+    {
+        "id":"lodar0_g3",
+        "message":"You know! You know!",
+        "replies":[
+            {
+                "text":"N",
+                "nextPhraseID":"lodar0_g4"
+            }
+        ]
+    },
+    {
+        "id":"lodar0_g4",
+        "message":"[The creature moves out of the way, and gestures with its hands almost like it is welcoming you further into the forest]",
+        "replies":[
+            {
+                "text":"N",
+                "nextPhraseID":"R"
             }
         ],
-        "message": "You not know password! Teehee."
-    },
-    {
-        "id": "lodar0_gfail1",
-        "message": "[The guardian pushes you away and shakes its head]"
-    },
-    {
-        "id": "lodar0_g3",
-        "replies": [
+        "rewards":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar0_g4"
+                "rewardType":"questProgress",
+                "rewardID":"lodar",
+                "value":45
             }
-        ],
-        "message": "You know! You know!"
+        ]
     },
     {
-        "id": "lodar0_g4",
-        "rewards": [
+        "id":"lodar0_g0a",
+        "message":"You again?",
+        "replies":[
             {
-                "rewardID": "lodar",
-                "value": 45,
-                "rewardType": "questProgress"
+                "text":"N",
+                "nextPhraseID":"lodar0_g0"
             }
-        ],
-        "replies": [
-            {
-                "text": "N",
-                "nextPhraseID": "R"
-            }
-        ],
-        "message": "[The creature moves out of the way, and gestures with its hands almost like it is welcoming you further into the forest]"
+        ]
     },
     {
-        "id": "lodar0_g0a",
-        "replies": [
+        "id":"lodar0_g",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar0_g0"
-            }
-        ],
-        "message": "You again?"
-    },
-    {
-        "id": "lodar0_g",
-        "replies": [
-            {
-                "requires": [
+                "nextPhraseID":"lodar0_g4",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lodar",
-                        "value": "45"
+                        "requireType":"questProgress",
+                        "requireID":"lodar",
+                        "value":45
                     }
-                ],
-                "nextPhraseID": "lodar0_g4"
+                ]
             },
             {
-                "requires": [
+                "nextPhraseID":"lodar0_g0a",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lodar",
-                        "value": "40"
+                        "requireType":"questProgress",
+                        "requireID":"lodar",
+                        "value":40
                     }
-                ],
-                "nextPhraseID": "lodar0_g0a"
+                ]
             },
             {
-                "nextPhraseID": "lodar0_g0"
+                "nextPhraseID":"lodar0_g0"
             }
         ]
     }

@@ -1,222 +1,222 @@
 [
     {
-        "id": "charwd_guard",
-        "rewards": [
+        "id":"charwd_guard",
+        "replies":[
             {
-                "rewardID": "charwood1",
-                "value": 19,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "requires": [
+                "nextPhraseID":"charwd_guard2",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "charwood1",
-                        "value": "35"
+                        "requireType":"questProgress",
+                        "requireID":"charwood1",
+                        "value":35
                     }
-                ],
-                "nextPhraseID": "charwd_guard2"
+                ]
             },
             {
-                "nextPhraseID": "charwd_guard0"
+                "nextPhraseID":"charwd_guard0"
+            }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"charwood1",
+                "value":19
             }
         ]
     },
     {
-        "id": "charwd_guard1",
-        "replies": [
+        "id":"charwd_guard1",
+        "message":"Good. We need all the help we can get.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "charwd_guard2"
-            }
-        ],
-        "message": "Good. We need all the help we can get."
-    },
-    {
-        "id": "charwd_guard2",
-        "rewards": [
-            {
-                "rewardID": "charwood1",
-                "value": 35,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "text": "Thank you.",
-                "nextPhraseID": "R"
-            },
-            {
-                "text": "I sure hope there's some reward for all of this later.",
-                "nextPhraseID": "R"
-            }
-        ],
-        "message": "I'll let you enter the hills. Keep heading east, and then turn north once you see the mountain side."
-    },
-    {
-        "id": "charwd_guard0",
-        "replies": [
-            {
-                "requires": [
-                    {
-                        "requireType": "questProgress",
-                        "requireID": "charwood1",
-                        "value": "30"
-                    }
-                ],
-                "text": "I've already talked to her, and I have agreed to help find your missing people.",
-                "nextPhraseID": "charwd_guard1"
-            },
-            {
-                "text": "What's back here?",
-                "nextPhraseID": "charwd_guard4"
-            },
-            {
-                "text": "Ok, I'll go talk to her.",
-                "nextPhraseID": "charwd_guard3"
-            }
-        ],
-        "message": "You better talk to Maevalia."
-    },
-    {
-        "id": "charwd_guard3",
-        "message": "Yes, you do that."
-    },
-    {
-        "id": "charwd_guard4",
-        "replies": [
-            {
-                "text": "Ok, I'll go talk to her.",
-                "nextPhraseID": "charwd_guard3"
-            },
-            {
-                "requires": [
-                    {
-                        "requireType": "questProgress",
-                        "requireID": "charwood1",
-                        "value": "30"
-                    }
-                ],
-                "nextPhraseID": "charwd_guard1",
-                "text": "I've already talked to her, and I have agreed to help find your missing people."
-            }
-        ],
-        "message": "Behind me is the path up to the Charwood mining town. You really should go talk to Maevalia though. She's inside the cabin."
-    },
-    {
-        "id": "drashad",
-        "rewards": [
-            {
-                "rewardID": "charwood1",
-                "value": 19,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "requires": [
-                    {
-                        "requireType": "questProgress",
-                        "requireID": "charwood1",
-                        "value": "50"
-                    }
-                ],
-                "nextPhraseID": "drashad1"
-            },
-            {
-                "nextPhraseID": "drashad2"
+                "text":"N",
+                "nextPhraseID":"charwd_guard2"
             }
         ]
     },
     {
-        "id": "drashad1",
-        "message": "Thank you for helping us!"
-    },
-    {
-        "id": "drashad2",
-        "message": "Please, you have to help us!"
-    },
-    {
-        "id": "khorailla",
-        "rewards": [
+        "id":"charwd_guard2",
+        "message":"I'll let you enter the hills. Keep heading east, and then turn north once you see the mountain side.",
+        "replies":[
             {
-                "rewardID": "charwood1",
-                "value": 19,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "requires": [
-                    {
-                        "requireType": "questProgress",
-                        "requireID": "charwood1",
-                        "value": "50"
-                    }
-                ],
-                "nextPhraseID": "khorailla1"
+                "text":"Thank you.",
+                "nextPhraseID":"R"
             },
             {
-                "nextPhraseID": "khorailla3"
+                "text":"I sure hope there's some reward for all of this later.",
+                "nextPhraseID":"R"
+            }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"charwood1",
+                "value":35
             }
         ]
     },
     {
-        "id": "khorailla1",
-        "replies": [
+        "id":"charwd_guard0",
+        "message":"You better talk to Maevalia.",
+        "replies":[
             {
-                "text": "Do you have anything to trade?",
-                "nextPhraseID": "khorailla2"
+                "text":"I've already talked to her, and I have agreed to help find your missing people.",
+                "nextPhraseID":"charwd_guard1",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"charwood1",
+                        "value":30
+                    }
+                ]
             },
             {
-                "text": "You're welcome.",
-                "nextPhraseID": "X"
-            }
-        ],
-        "message": "Thank you so much for finding our missing people!"
-    },
-    {
-        "id": "khorailla2",
-        "replies": [
-            {
-                "text": "Sure, let me see what you have.",
-                "nextPhraseID": "S"
-            }
-        ],
-        "message": "It's not much, but I have some food if you'd like."
-    },
-    {
-        "id": "khorailla3",
-        "replies": [
-            {
-                "text": "Do you have anything to trade?",
-                "nextPhraseID": "khorailla5"
+                "text":"What's back here?",
+                "nextPhraseID":"charwd_guard4"
             },
             {
-                "text": "What happened to them?",
-                "nextPhraseID": "khorailla4"
+                "text":"Ok, I'll go talk to her.",
+                "nextPhraseID":"charwd_guard3"
             }
-        ],
-        "message": "What ever will we do? Poor Ayell and Fayvara, I sure hope they're alright."
+        ]
     },
     {
-        "id": "khorailla4",
-        "message": "You should talk to Maevalia over there."
+        "id":"charwd_guard3",
+        "message":"Yes, you do that."
     },
     {
-        "id": "khorailla5",
-        "replies": [
+        "id":"charwd_guard4",
+        "message":"Behind me is the path up to the Charwood mining town. You really should go talk to Maevalia though. She's inside the cabin.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "khorailla4"
+                "text":"Ok, I'll go talk to her.",
+                "nextPhraseID":"charwd_guard3"
+            },
+            {
+                "text":"I've already talked to her, and I have agreed to help find your missing people.",
+                "nextPhraseID":"charwd_guard1",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"charwood1",
+                        "value":30
+                    }
+                ]
             }
-        ],
-        "message": "I'm sorry, I'm too distracted to help you right now."
+        ]
     },
     {
-        "id": "charwood_rest",
-        "message": "Khorailla shouts to you: Hey! Get away from there!"
+        "id":"drashad",
+        "replies":[
+            {
+                "nextPhraseID":"drashad1",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"charwood1",
+                        "value":50
+                    }
+                ]
+            },
+            {
+                "nextPhraseID":"drashad2"
+            }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"charwood1",
+                "value":19
+            }
+        ]
+    },
+    {
+        "id":"drashad1",
+        "message":"Thank you for helping us!"
+    },
+    {
+        "id":"drashad2",
+        "message":"Please, you have to help us!"
+    },
+    {
+        "id":"khorailla",
+        "replies":[
+            {
+                "nextPhraseID":"khorailla1",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"charwood1",
+                        "value":50
+                    }
+                ]
+            },
+            {
+                "nextPhraseID":"khorailla3"
+            }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"charwood1",
+                "value":19
+            }
+        ]
+    },
+    {
+        "id":"khorailla1",
+        "message":"Thank you so much for finding our missing people!",
+        "replies":[
+            {
+                "text":"Do you have anything to trade?",
+                "nextPhraseID":"khorailla2"
+            },
+            {
+                "text":"You're welcome.",
+                "nextPhraseID":"X"
+            }
+        ]
+    },
+    {
+        "id":"khorailla2",
+        "message":"It's not much, but I have some food if you'd like.",
+        "replies":[
+            {
+                "text":"Sure, let me see what you have.",
+                "nextPhraseID":"S"
+            }
+        ]
+    },
+    {
+        "id":"khorailla3",
+        "message":"What ever will we do? Poor Ayell and Fayvara, I sure hope they're alright.",
+        "replies":[
+            {
+                "text":"Do you have anything to trade?",
+                "nextPhraseID":"khorailla5"
+            },
+            {
+                "text":"What happened to them?",
+                "nextPhraseID":"khorailla4"
+            }
+        ]
+    },
+    {
+        "id":"khorailla4",
+        "message":"You should talk to Maevalia over there."
+    },
+    {
+        "id":"khorailla5",
+        "message":"I'm sorry, I'm too distracted to help you right now.",
+        "replies":[
+            {
+                "text":"N",
+                "nextPhraseID":"khorailla4"
+            }
+        ]
+    },
+    {
+        "id":"charwood_rest",
+        "message":"Khorailla shouts to you: Hey! Get away from there!"
     }
 ]

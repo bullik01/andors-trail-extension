@@ -683,6 +683,16 @@
 		<item>@xml/stoutford_tavern</item>
 
 		<!-- added maps in 0.7.3_DEV_13042017 -->
-		<item>@xml/forest_polygon</item>
+		<!-- <item>@xml/forest_polygon</item> -->
+
+		<!-- added in 0.7.3_DEV_14062017 -->
+		<item>@xml/arulircave1</item>
+		<item>@xml/arulircave2</item>
+		<item>@xml/arulircave3</item>
+		<item>@xml/arulircave4</item>
+		<item>@xml/arulircave5</item>
+		<item>@xml/arulircave6</item>
+		<item>@xml/arulirmountain1</item>
+		<item>@xml/arulirmountain2</item>
 	</array>
 </resources>

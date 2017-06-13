@@ -1,292 +1,292 @@
 [
     {
-        "id": "twoteeth",
-        "replies": [
+        "id":"twoteeth",
+        "replies":[
             {
-                "requires": [
+                "nextPhraseID":"twoteeth_c1",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lowyna",
-                        "value": "40"
+                        "requireType":"questProgress",
+                        "requireID":"lowyna",
+                        "value":40
                     }
-                ],
-                "nextPhraseID": "twoteeth_c1"
+                ]
             },
             {
-                "requires": [
+                "nextPhraseID":"twoteeth_r1",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lowyna",
-                        "value": "10"
+                        "requireType":"questProgress",
+                        "requireID":"lowyna",
+                        "value":10
                     }
-                ],
-                "nextPhraseID": "twoteeth_r1"
+                ]
             },
             {
-                "nextPhraseID": "twoteeth_1"
+                "nextPhraseID":"twoteeth_1"
             }
         ]
     },
     {
-        "id": "twoteeth_1",
-        "replies": [
+        "id":"twoteeth_1",
+        "message":"Hey kid. Yeah, you!",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_2"
+                "text":"N",
+                "nextPhraseID":"twoteeth_2"
             }
-        ],
-        "message": "Hey kid. Yeah, you!"
+        ]
     },
     {
-        "id": "twoteeth_2",
-        "replies": [
+        "id":"twoteeth_2",
+        "message":"He he. You might be of use. You'd help an old fella, wouldn't you?",
+        "replies":[
             {
-                "text": "Yikes! What is that smell?",
-                "nextPhraseID": "twoteeth_3"
+                "text":"Yikes! What is that smell?",
+                "nextPhraseID":"twoteeth_3"
             },
             {
-                "text": "Yuck! What happened to your clothes, they're all dirty and torn up!",
-                "nextPhraseID": "twoteeth_3"
+                "text":"Yuck! What happened to your clothes, they're all dirty and torn up!",
+                "nextPhraseID":"twoteeth_3"
             },
             {
-                "text": "Hey, what happened to your teeth? Did you lose them all, or did that bad breath of yours make them corrode?",
-                "nextPhraseID": "twoteeth_3"
+                "text":"Hey, what happened to your teeth? Did you lose them all, or did that bad breath of yours make them corrode?",
+                "nextPhraseID":"twoteeth_3"
             },
             {
-                "text": "Did I just see something move inside that nasty beard of yours?",
-                "nextPhraseID": "twoteeth_3"
+                "text":"Did I just see something move inside that nasty beard of yours?",
+                "nextPhraseID":"twoteeth_3"
             }
-        ],
-        "message": "He he. You might be of use. You'd help an old fella, wouldn't you?"
+        ]
     },
     {
-        "id": "twoteeth_3",
-        "replies": [
+        "id":"twoteeth_3",
+        "message":"[coughs heavily]",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_4"
+                "text":"N",
+                "nextPhraseID":"twoteeth_4"
             }
-        ],
-        "message": "[coughs heavily]"
+        ]
     },
     {
-        "id": "twoteeth_4",
-        "replies": [
+        "id":"twoteeth_4",
+        "message":"Har har. That's nothing! You should have seen Lentural that was here before. Come here and let me have a look at you.",
+        "replies":[
             {
-                "text": "Yuck, get away from me!",
-                "nextPhraseID": "twoteeth_5"
+                "text":"Yuck, get away from me!",
+                "nextPhraseID":"twoteeth_5"
             },
             {
-                "text": "Stay away, or you'll not live to see the rest of the day!",
-                "nextPhraseID": "twoteeth_5"
+                "text":"Stay away, or you'll not live to see the rest of the day!",
+                "nextPhraseID":"twoteeth_5"
             },
             {
-                "text": "What do you want?",
-                "nextPhraseID": "twoteeth_7"
+                "text":"What do you want?",
+                "nextPhraseID":"twoteeth_7"
             }
-        ],
-        "message": "Har har. That's nothing! You should have seen Lentural that was here before. Come here and let me have a look at you."
+        ]
     },
     {
-        "id": "twoteeth_5",
-        "replies": [
+        "id":"twoteeth_5",
+        "message":"Ok, ok! No need to get all violent.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_6"
+                "text":"N",
+                "nextPhraseID":"twoteeth_6"
             }
-        ],
-        "message": "Ok, ok! No need to get all violent."
+        ]
     },
     {
-        "id": "twoteeth_6",
-        "message": "Stupid kids."
+        "id":"twoteeth_6",
+        "message":"Stupid kids."
     },
     {
-        "id": "twoteeth_7",
-        "replies": [
+        "id":"twoteeth_7",
+        "message":"You'd help an old fella, right? Why don't you run over to Lowyna there and get me another one her bottles of rat poison.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_8"
+                "text":"N",
+                "nextPhraseID":"twoteeth_8"
             }
-        ],
-        "message": "You'd help an old fella, right? Why don't you run over to Lowyna there and get me another one her bottles of rat poison."
+        ]
     },
     {
-        "id": "twoteeth_8",
-        "replies": [
+        "id":"twoteeth_8",
+        "message":"Ah, that sweet rat poison.",
+        "replies":[
             {
-                "text": "Rat poison? Are you sure that's safe?",
-                "nextPhraseID": "twoteeth_12"
+                "text":"Rat poison? Are you sure that's safe?",
+                "nextPhraseID":"twoteeth_12"
             },
             {
-                "text": "Where can I find her?",
-                "nextPhraseID": "twoteeth_9"
+                "text":"Where can I find her?",
+                "nextPhraseID":"twoteeth_9"
             }
-        ],
-        "message": "Ah, that sweet rat poison."
+        ]
     },
     {
-        "id": "twoteeth_9",
-        "replies": [
+        "id":"twoteeth_9",
+        "message":"She's in the other hut over there. *points*",
+        "replies":[
             {
-                "text": "I don't think it's such a good idea to help you. I could get in trouble.",
-                "nextPhraseID": "twoteeth_10"
+                "text":"I don't think it's such a good idea to help you. I could get in trouble.",
+                "nextPhraseID":"twoteeth_10"
             },
             {
-                "text": "I'll go get some rat poison for you.",
-                "nextPhraseID": "twoteeth_11"
+                "text":"I'll go get some rat poison for you.",
+                "nextPhraseID":"twoteeth_11"
             }
-        ],
-        "message": "She's in the other hut over there. *points*"
+        ]
     },
     {
-        "id": "twoteeth_10",
-        "replies": [
+        "id":"twoteeth_10",
+        "message":"He he. Yes. Yes you could. But that's the beauty of it all!",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_cough"
+                "text":"N",
+                "nextPhraseID":"twoteeth_cough"
             }
-        ],
-        "message": "He he. Yes. Yes you could. But that's the beauty of it all!"
+        ]
     },
     {
-        "id": "twoteeth_11",
-        "rewards": [
+        "id":"twoteeth_11",
+        "message":"Good. Tell her two-teeth sent you.",
+        "rewards":[
             {
-                "rewardID": "lowyna",
-                "value": 10,
-                "rewardType": "questProgress"
+                "rewardType":"questProgress",
+                "rewardID":"lowyna",
+                "value":10
             }
-        ],
-        "message": "Good. Tell her two-teeth sent you."
+        ]
     },
     {
-        "id": "twoteeth_12",
-        "replies": [
+        "id":"twoteeth_12",
+        "message":"Oh sure! It's perfectly safe. Har har.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_13"
+                "text":"N",
+                "nextPhraseID":"twoteeth_13"
             }
-        ],
-        "message": "Oh sure! It's perfectly safe. Har har."
+        ]
     },
     {
-        "id": "twoteeth_13",
-        "replies": [
+        "id":"twoteeth_13",
+        "message":"[coughs heavily]",
+        "replies":[
             {
-                "text": "Where can I find her?",
-                "nextPhraseID": "twoteeth_9"
+                "text":"Where can I find her?",
+                "nextPhraseID":"twoteeth_9"
             },
             {
-                "text": "I don't think it's such a good idea to help you. I could get in trouble.",
-                "nextPhraseID": "twoteeth_10"
+                "text":"I don't think it's such a good idea to help you. I could get in trouble.",
+                "nextPhraseID":"twoteeth_10"
             }
-        ],
-        "message": "[coughs heavily]"
+        ]
     },
     {
-        "id": "twoteeth_cough",
-        "message": "[coughs heavily]"
+        "id":"twoteeth_cough",
+        "message":"[coughs heavily]"
     },
     {
-        "id": "twoteeth_r1",
-        "replies": [
+        "id":"twoteeth_r1",
+        "message":"[coughs heavily]",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_r2"
+                "text":"N",
+                "nextPhraseID":"twoteeth_r2"
             }
-        ],
-        "message": "[coughs heavily]"
+        ]
     },
     {
-        "id": "twoteeth_r2",
-        "replies": [
+        "id":"twoteeth_r2",
+        "message":"Hey, did you get that rat poison from Lowyna for me?",
+        "replies":[
             {
-                "text": "Where can I find her?",
-                "nextPhraseID": "twoteeth_9"
+                "text":"Where can I find her?",
+                "nextPhraseID":"twoteeth_9"
             },
             {
-                "requires": [
+                "text":"Here, I got you some from Lowyna.",
+                "nextPhraseID":"twoteeth_c3",
+                "requires":[
                     {
-                        "requireType": "inventoryRemove",
-                        "requireID": "drink_lowyn3",
-                        "value": 1
+                        "requireType":"inventoryRemove",
+                        "requireID":"drink_lowyn3",
+                        "value":1
                     }
-                ],
-                "text": "Here, I got you some from Lowyna.",
-                "nextPhraseID": "twoteeth_c3"
+                ]
             }
-        ],
-        "message": "Hey, did you get that rat poison from Lowyna for me?"
+        ]
     },
     {
-        "id": "twoteeth_c1",
-        "replies": [
+        "id":"twoteeth_c1",
+        "message":"Hey, my little helper. Got any more of that rat poison for me?",
+        "replies":[
             {
-                "text": "I don't think it's such a good idea to help you. I could get in trouble.",
-                "nextPhraseID": "twoteeth_10"
+                "text":"I don't think it's such a good idea to help you. I could get in trouble.",
+                "nextPhraseID":"twoteeth_10"
             },
             {
-                "text": "Go get it yourself.",
-                "nextPhraseID": "twoteeth_c2"
+                "text":"Go get it yourself.",
+                "nextPhraseID":"twoteeth_c2"
             },
             {
-                "requires": [
+                "text":"Here, have some.",
+                "nextPhraseID":"twoteeth_c3",
+                "requires":[
                     {
-                        "requireType": "inventoryRemove",
-                        "requireID": "drink_lowyn3",
-                        "value": 1
+                        "requireType":"inventoryRemove",
+                        "requireID":"drink_lowyn3",
+                        "value":1
                     }
-                ],
-                "text": "Here, have some.",
-                "nextPhraseID": "twoteeth_c3"
+                ]
             }
-        ],
-        "message": "Hey, my little helper. Got any more of that rat poison for me?"
+        ]
     },
     {
-        "id": "twoteeth_c2",
-        "message": "I'm fine right here. *chuckle*"
+        "id":"twoteeth_c2",
+        "message":"I'm fine right here. *chuckle*"
     },
     {
-        "id": "twoteeth_c3",
-        "rewards": [
+        "id":"twoteeth_c3",
+        "message":"Har har. Thank you. Give that here.",
+        "replies":[
             {
-                "rewardID": "lowyna",
-                "value": 40,
-                "rewardType": "questProgress"
+                "text":"N",
+                "nextPhraseID":"twoteeth_c4"
             }
         ],
-        "replies": [
+        "rewards":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_c4"
+                "rewardType":"questProgress",
+                "rewardID":"lowyna",
+                "value":40
             }
-        ],
-        "message": "Har har. Thank you. Give that here."
+        ]
     },
     {
-        "id": "twoteeth_c4",
-        "replies": [
+        "id":"twoteeth_c4",
+        "message":"Ah, that sweet sweet rat poison.",
+        "replies":[
             {
-                "text": "Hey, how about a reward?",
-                "nextPhraseID": "twoteeth_c5"
+                "text":"Hey, how about a reward?",
+                "nextPhraseID":"twoteeth_c5"
             },
             {
-                "text": "You're welcome.",
-                "nextPhraseID": "X"
+                "text":"You're welcome.",
+                "nextPhraseID":"X"
             }
-        ],
-        "message": "Ah, that sweet sweet rat poison."
+        ]
     },
     {
-        "id": "twoteeth_c5",
-        "replies": [
+        "id":"twoteeth_c5",
+        "message":"What? No, we didn't agree on anything like that.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "twoteeth_cough"
+                "text":"N",
+                "nextPhraseID":"twoteeth_cough"
             }
-        ],
-        "message": "What? No, we didn't agree on anything like that."
+        ]
     }
 ]

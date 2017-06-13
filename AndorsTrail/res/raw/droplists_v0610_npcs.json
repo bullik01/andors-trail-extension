@@ -1,280 +1,280 @@
 [
     {
-        "id": "tinlyn_bells",
-        "items": [
+        "id":"tinlyn_bells",
+        "items":[
             {
-                "itemID": "tinlyn_bells",
-                "quantity": {
-                    "min": 4,
-                    "max": 4
-                },
-                "chance": 100
+                "itemID":"tinlyn_bells",
+                "chance":"100",
+                "quantity":{
+                    "min":4,
+                    "max":4
+                }
             }
         ]
     },
     {
-        "id": "fieldwasp_unique",
-        "items": [
+        "id":"fieldwasp_unique",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 10
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":10
+                }
             },
             {
-                "itemID": "hadracor_waspwing",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"hadracor_waspwing",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "tinlyn_sheep",
-        "items": [
+        "id":"tinlyn_sheep",
+        "items":[
             {
-                "itemID": "meat",
-                "quantity": {
-                    "min": 0,
-                    "max": 3
-                },
-                "chance": 70
+                "itemID":"meat",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":3
+                }
             },
             {
-                "itemID": "tinlyn_sheep_meat",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"tinlyn_sheep_meat",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "feygard_shipment",
-        "items": [
+        "id":"feygard_shipment",
+        "items":[
             {
-                "itemID": "fg_ironsword",
-                "quantity": {
-                    "min": 10,
-                    "max": 10
-                },
-                "chance": 100
+                "itemID":"fg_ironsword",
+                "chance":"100",
+                "quantity":{
+                    "min":10,
+                    "max":10
+                }
             }
         ]
     },
     {
-        "id": "vg_smith_fg_items",
-        "items": [
+        "id":"vg_smith_fg_items",
+        "items":[
             {
-                "itemID": "fg_ironsword_d",
-                "quantity": {
-                    "min": 10,
-                    "max": 10
-                },
-                "chance": 100
+                "itemID":"fg_ironsword_d",
+                "chance":"100",
+                "quantity":{
+                    "min":10,
+                    "max":10
+                }
             }
         ]
     },
     {
-        "id": "hadracor_reward",
-        "items": [
+        "id":"hadracor_reward",
+        "items":[
             {
-                "itemID": "gloves_woodcutter",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"gloves_woodcutter",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "larva_boss",
-        "items": [
+        "id":"larva_boss",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 9
-                },
-                "chance": 100
+                "itemID":"gold",
+                "chance":"100",
+                "quantity":{
+                    "min":0,
+                    "max":9
+                }
             },
             {
-                "itemID": "gem2",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"gem2",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"health_minor",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "erinith_book",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"erinith_book",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "keknazar",
-        "items": [
+        "id":"keknazar",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 45
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":45
+                }
             },
             {
-                "itemID": "bone",
-                "quantity": {
-                    "min": 1,
-                    "max": 3
-                },
-                "chance": 100
+                "itemID":"bone",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":3
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 100
+                "itemID":"health_minor",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             },
             {
-                "itemID": "necklace_shield_0",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"necklace_shield_0",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     },
     {
-        "id": "rogorn",
-        "items": [
+        "id":"rogorn",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 50
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":50
+                }
             },
             {
-                "itemID": "rogorn_qitem",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"rogorn_qitem",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "longsword_hard_iron",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"longsword_hard_iron",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 100
+                "itemID":"health_minor",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             }
         ]
     },
     {
-        "id": "rogorn_henchman",
-        "items": [
+        "id":"rogorn_henchman",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 20
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":20
+                }
             },
             {
-                "itemID": "rogorn_qitem",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"rogorn_qitem",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 2
-                },
-                "chance": 100
+                "itemID":"health_minor",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":2
+                }
             }
         ]
     },
     {
-        "id": "buceth",
-        "items": [
+        "id":"buceth",
+        "items":[
             {
-                "itemID": "gold",
-                "quantity": {
-                    "min": 0,
-                    "max": 20
-                },
-                "chance": 70
+                "itemID":"gold",
+                "chance":"70",
+                "quantity":{
+                    "min":0,
+                    "max":20
+                }
             },
             {
-                "itemID": "buceth_vial",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"buceth_vial",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             },
             {
-                "itemID": "health_minor",
-                "quantity": {
-                    "min": 1,
-                    "max": 4
-                },
-                "chance": 100
+                "itemID":"health_minor",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":4
+                }
             },
             {
-                "itemID": "vial_empty2",
-                "quantity": {
-                    "min": 1,
-                    "max": 3
-                },
-                "chance": 100
+                "itemID":"vial_empty2",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":3
+                }
             },
             {
-                "itemID": "ring_life",
-                "quantity": {
-                    "min": 1,
-                    "max": 1
-                },
-                "chance": 100
+                "itemID":"ring_life",
+                "chance":"100",
+                "quantity":{
+                    "min":1,
+                    "max":1
+                }
             }
         ]
     }

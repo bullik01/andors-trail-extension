@@ -1,9 +1,9 @@
 [
-  {
-    "id": "jakrar_axe",
-    "name": "Jakrar's Woodcutting Axe",
-    "displaytype": "quest",
-    "iconID": "items_weapons:62",
-    "category": "other"
-  }
+    {
+        "id":"jakrar_axe",
+        "iconID":"items_weapons:62",
+        "name":"Jakrar's Woodcutting Axe",
+        "displaytype":"quest",
+        "category":"other"
+    }
 ]

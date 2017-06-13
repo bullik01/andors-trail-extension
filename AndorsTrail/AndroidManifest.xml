@@ -4,7 +4,7 @@
 	xmlns:android="http://schemas.android.com/apk/res/android" 
 	package="com.gpl.rpg.AndorsTrail"
 	android:versionCode="43"
-	android:versionName="0.7.3_DEV_13042017"
+	android:versionName="0.7.3_DEV_14062017"
 	android:installLocation="auto"
 	>
 	<uses-sdk 

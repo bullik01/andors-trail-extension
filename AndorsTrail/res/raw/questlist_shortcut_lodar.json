@@ -26,13 +26,13 @@
             },
             {
                 "progress":40,
-                "finishesQuest":1,
-                "logText":"I poured the vial over the purple fire and then it turned green. When approaching it I was teleported into another room of the cave with more purple torches. I was able to activate them as well. Finally, I have got my shortcut and can travel to Lodar a lot faster!"
+                "logText":"I poured the vial over the purple fire and then it turned green. When approaching it I was teleported into another room of the cave with more purple torches. I was able to activate them as well. Finally, I have got my shortcut and can travel to Lodar a lot faster!",
+                "finishesQuest":1
             },
-        	{
-	            "progress":50,
-        	    "logText":"I told Lodar about the new shortcut. He asked me to keep it a secret."
-        	}
+            {
+                "progress":50,
+                "logText":"I told Lodar about the new shortcut. He asked me to keep it a secret."
+            }
         ]
     }
 ]

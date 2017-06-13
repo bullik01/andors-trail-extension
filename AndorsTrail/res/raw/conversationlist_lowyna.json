@@ -1,148 +1,148 @@
 [
     {
-        "id": "lowyna",
-        "replies": [
+        "id":"lowyna",
+        "message":"Uh. Hello.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lowyna_1"
+                "text":"N",
+                "nextPhraseID":"lowyna_1"
             }
-        ],
-        "message": "Uh. Hello."
+        ]
     },
     {
-        "id": "lowyna_1",
-        "replies": [
+        "id":"lowyna_1",
+        "message":"Whoa, you look small. I must be seeing things. That last batch I did must have gotten stronger than usual.",
+        "replies":[
             {
-                "text": "Who are you?",
-                "nextPhraseID": "lowyna_3"
+                "text":"Who are you?",
+                "nextPhraseID":"lowyna_3"
             },
             {
-                "text": "What are you people doing here?",
-                "nextPhraseID": "lowyna_2"
+                "text":"What are you people doing here?",
+                "nextPhraseID":"lowyna_2"
             },
             {
-                "text": "What is that smell?",
-                "nextPhraseID": "lowyna_4"
+                "text":"What is that smell?",
+                "nextPhraseID":"lowyna_4"
             },
             {
-                "requires": [
+                "text":"Can I look at your wares again?",
+                "nextPhraseID":"S",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lowyna",
-                        "value": "20"
+                        "requireType":"questProgress",
+                        "requireID":"lowyna",
+                        "value":20
                     }
-                ],
-                "text": "Can I look at your wares again?",
-                "nextPhraseID": "S"
+                ]
             }
-        ],
-        "message": "Whoa, you look small. I must be seeing things. That last batch I did must have gotten stronger than usual."
+        ]
     },
     {
-        "id": "lowyna_2",
-        "replies": [
+        "id":"lowyna_2",
+        "message":"He he, this and that.",
+        "replies":[
             {
-                "text": "I see a lot of potion bottles around. Is that what you do?",
-                "nextPhraseID": "lowyna_5"
+                "text":"I see a lot of potion bottles around. Is that what you do?",
+                "nextPhraseID":"lowyna_5"
             },
             {
-                "text": "What is that smell?",
-                "nextPhraseID": "lowyna_4"
+                "text":"What is that smell?",
+                "nextPhraseID":"lowyna_4"
             }
-        ],
-        "message": "He he, this and that."
+        ]
     },
     {
-        "id": "lowyna_3",
-        "replies": [
+        "id":"lowyna_3",
+        "message":"I am Lowyna, of course. These people that you see in here and in the other huts, you could say that we're sort of in the same .. family.",
+        "replies":[
             {
-                "text": "What are you people doing here?",
-                "nextPhraseID": "lowyna_2"
+                "text":"What are you people doing here?",
+                "nextPhraseID":"lowyna_2"
             }
-        ],
-        "message": "I am Lowyna, of course. These people that you see in here and in the other huts, you could say that we're sort of in the same .. family."
+        ]
     },
     {
-        "id": "lowyna_4",
-        "replies": [
+        "id":"lowyna_4",
+        "message":"What smell? I can't smell anything out of the ordinary. It must be you.",
+        "replies":[
             {
-                "text": "What are you people doing here?",
-                "nextPhraseID": "lowyna_2"
+                "text":"What are you people doing here?",
+                "nextPhraseID":"lowyna_2"
             },
             {
-                "text": "Who are you?",
-                "nextPhraseID": "lowyna_3"
+                "text":"Who are you?",
+                "nextPhraseID":"lowyna_3"
             }
-        ],
-        "message": "What smell? I can't smell anything out of the ordinary. It must be you."
+        ]
     },
     {
-        "id": "lowyna_5",
-        "replies": [
+        "id":"lowyna_5",
+        "message":"It's that obvious eh?",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lowyna_6"
+                "text":"N",
+                "nextPhraseID":"lowyna_6"
             }
-        ],
-        "message": "It's that obvious eh?"
+        ]
     },
     {
-        "id": "lowyna_6",
-        "replies": [
+        "id":"lowyna_6",
+        "message":"I really shouldn't be discussing this with you. You look way to inexperienced for this.",
+        "replies":[
             {
-                "text": "I can handle myself!",
-                "nextPhraseID": "lowyna_7"
+                "text":"I can handle myself!",
+                "nextPhraseID":"lowyna_7"
             },
             {
-                "requires": [
+                "text":"Two-teeth sent me to get some rat poison.",
+                "nextPhraseID":"lowyna_8",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lowyna",
-                        "value": "10"
+                        "requireType":"questProgress",
+                        "requireID":"lowyna",
+                        "value":10
                     }
-                ],
-                "text": "Two-teeth sent me to get some rat poison.",
-                "nextPhraseID": "lowyna_8"
+                ]
             }
-        ],
-        "message": "I really shouldn't be discussing this with you. You look way to inexperienced for this."
+        ]
     },
     {
-        "id": "lowyna_7",
-        "message": "Hah! How about no?"
+        "id":"lowyna_7",
+        "message":"Hah! How about no?"
     },
     {
-        "id": "lowyna_8",
-        "replies": [
+        "id":"lowyna_8",
+        "message":"I'm amazed he's still around, good old two-teeth.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lowyna_9"
+                "text":"N",
+                "nextPhraseID":"lowyna_9"
             }
-        ],
-        "message": "I'm amazed he's still around, good old two-teeth."
+        ]
     },
     {
-        "id": "lowyna_9",
-        "rewards": [
+        "id":"lowyna_9",
+        "message":"For his sake, I'll let you browse my wares.",
+        "replies":[
             {
-                "rewardID": "lowyna",
-                "value": 20,
-                "rewardType": "questProgress"
-            }
-        ],
-        "replies": [
-            {
-                "requires": [
+                "text":"Let's see what you have.",
+                "nextPhraseID":"S",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lowyna",
-                        "value": "20"
+                        "requireType":"questProgress",
+                        "requireID":"lowyna",
+                        "value":20
                     }
-                ],
-                "text": "Let's see what you have.",
-                "nextPhraseID": "S"
+                ]
             }
         ],
-        "message": "For his sake, I'll let you browse my wares."
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"lowyna",
+                "value":20
+            }
+        ]
     }
 ]

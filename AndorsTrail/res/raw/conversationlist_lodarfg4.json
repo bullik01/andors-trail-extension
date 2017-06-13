@@ -1,134 +1,134 @@
 [
     {
-        "id": "lodar_fg4",
-        "replies": [
+        "id":"lodar_fg4",
+        "replies":[
             {
-                "requires": [
+                "nextPhraseID":"lodar_fg4_a",
+                "requires":[
                     {
-                        "requireType": "questProgress",
-                        "requireID": "lodar2",
-                        "value": "50"
+                        "requireType":"questProgress",
+                        "requireID":"lodar2",
+                        "value":50
                     }
-                ],
-                "nextPhraseID": "lodar_fg4_a"
+                ]
             },
             {
-                "nextPhraseID": "lodar_fg4_0"
+                "nextPhraseID":"lodar_fg4_0"
             }
         ]
     },
     {
-        "id": "lodar_fg4_a",
-        "message": "I seem to have lost track of where I am. I was looking for something."
+        "id":"lodar_fg4_a",
+        "message":"I seem to have lost track of where I am. I was looking for something."
     },
     {
-        "id": "lodar_fg4_0",
-        "replies": [
+        "id":"lodar_fg4_0",
+        "message":"I'll find it.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar_fg4_1"
+                "text":"N",
+                "nextPhraseID":"lodar_fg4_1"
             }
-        ],
-        "message": "I'll find it."
+        ]
     },
     {
-        "id": "lodar_fg4_1",
-        "replies": [
+        "id":"lodar_fg4_1",
+        "message":"Soon, it will all be mine.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar_fg4_2"
+                "text":"N",
+                "nextPhraseID":"lodar_fg4_2"
             }
-        ],
-        "message": "Soon, it will all be mine."
+        ]
     },
     {
-        "id": "lodar_fg4_2",
-        "replies": [
+        "id":"lodar_fg4_2",
+        "message":"I'll find what lurks beneath.",
+        "replies":[
             {
-                "text": "Lurks beneath?",
-                "nextPhraseID": "lodar_fg4_3"
+                "text":"Lurks beneath?",
+                "nextPhraseID":"lodar_fg4_3"
             }
-        ],
-        "message": "I'll find what lurks beneath."
+        ]
     },
     {
-        "id": "lodar_fg4_3",
-        "replies": [
+        "id":"lodar_fg4_3",
+        "message":"(the guard turns towards you, almost as if he didn't notice you before)",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar_fg4_4"
+                "text":"N",
+                "nextPhraseID":"lodar_fg4_4"
             }
-        ],
-        "message": "(the guard turns towards you, almost as if he didn't notice you before)"
+        ]
     },
     {
-        "id": "lodar_fg4_4",
-        "replies": [
+        "id":"lodar_fg4_4",
+        "message":"What, who are you?",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar_fg4_5"
+                "text":"N",
+                "nextPhraseID":"lodar_fg4_5"
             }
-        ],
-        "message": "What, who are you?"
+        ]
     },
     {
-        "id": "lodar_fg4_5",
-        "replies": [
+        "id":"lodar_fg4_5",
+        "message":"Are you one of .. them?",
+        "replies":[
             {
-                "text": "One of who?",
-                "nextPhraseID": "lodar_fg4_6"
+                "text":"One of who?",
+                "nextPhraseID":"lodar_fg4_6"
             },
             {
-                "text": "(Lie) Yes, I an one of them. Bow down to me.",
-                "nextPhraseID": "lodar_fg4_6"
+                "text":"(Lie) Yes, I an one of them. Bow down to me.",
+                "nextPhraseID":"lodar_fg4_6"
             },
             {
-                "text": "What are you talking about?",
-                "nextPhraseID": "lodar_fg4_6"
+                "text":"What are you talking about?",
+                "nextPhraseID":"lodar_fg4_6"
             }
-        ],
-        "message": "Are you one of .. them?"
+        ]
     },
     {
-        "id": "lodar_fg4_6",
-        "replies": [
+        "id":"lodar_fg4_6",
+        "message":"Oh yes, you are one of them. What lurks beneath demands that I purge this land from all of you.",
+        "replies":[
             {
-                "text": "N",
-                "nextPhraseID": "lodar_fg4_7"
+                "text":"N",
+                "nextPhraseID":"lodar_fg4_7"
             }
-        ],
-        "message": "Oh yes, you are one of them. What lurks beneath demands that I purge this land from all of you."
+        ]
     },
     {
-        "id": "lodar_fg4_7",
-        "replies": [
+        "id":"lodar_fg4_7",
+        "message":"You will be the first of my glorious victories.",
+        "replies":[
             {
-                "text": "Let's see who's victorious!",
-                "nextPhraseID": "lodar_fg4_8"
+                "text":"Let's see who's victorious!",
+                "nextPhraseID":"lodar_fg4_8"
             },
             {
-                "text": "Please don't hurt me!",
-                "nextPhraseID": "lodar_fg4_8"
+                "text":"Please don't hurt me!",
+                "nextPhraseID":"lodar_fg4_8"
             },
             {
-                "text": "All right, a fight! I've been wanting to slay more of you Feygard scum.",
-                "nextPhraseID": "lodar_fg4_8"
+                "text":"All right, a fight! I've been wanting to slay more of you Feygard scum.",
+                "nextPhraseID":"lodar_fg4_8"
             }
-        ],
-        "message": "You will be the first of my glorious victories."
+        ]
     },
     {
-        "id": "lodar_fg4_8",
-        "rewards": [
+        "id":"lodar_fg4_8",
+        "replies":[
             {
-                "rewardID": "lodar",
-                "value": 73,
-                "rewardType": "questProgress"
+                "nextPhraseID":"F"
             }
         ],
-        "replies": [
+        "rewards":[
             {
-                "nextPhraseID": "F"
+                "rewardType":"questProgress",
+                "rewardID":"lodar",
+                "value":73
             }
         ]
     }

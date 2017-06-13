@@ -26,8 +26,8 @@
             },
             {
                 "progress":40,
-                "rewardExperience":500,
-                "logText":"I refused to bring more rat tails to Halvor. He left Crossglen."
+                "logText":"I refused to bring more rat tails to Halvor. He left Crossglen.",
+                "rewardExperience":500
             },
             {
                 "progress":50,
@@ -55,8 +55,8 @@
             },
             {
                 "progress":90,
-                "rewardExperience":1500,
-                "logText":"I have given up on finding animal hairs that suit Halvor's taste. He has left."
+                "logText":"I have given up on finding animal hairs that suit Halvor's taste. He has left.",
+                "rewardExperience":1500
             },
             {
                 "progress":100,
@@ -68,23 +68,23 @@
             },
             {
                 "progress":111,
-                "rewardExperience":500,
-                "logText":"I gave Halvor a small healing potion."
+                "logText":"I gave Halvor a small healing potion.",
+                "rewardExperience":500
             },
             {
                 "progress":112,
-                "rewardExperience":1000,
-                "logText":"I gave Halvor an healing potion."
+                "logText":"I gave Halvor an healing potion.",
+                "rewardExperience":1000
             },
             {
                 "progress":113,
-                "rewardExperience":1500,
-                "logText":"I gave Halvor a powerful healing potion."
+                "logText":"I gave Halvor a powerful healing potion.",
+                "rewardExperience":1500
             },
             {
                 "progress":114,
-                "rewardExperience":5000,
-                "logText":"I gave Halvor a potion made by Lodar."
+                "logText":"I gave Halvor a potion made by Lodar.",
+                "rewardExperience":5000
             },
             {
                 "progress":115,
@@ -108,8 +108,8 @@
             },
             {
                 "progress":140,
-                "rewardExperience":3500,
-                "logText":"Halvor left the lakeside when I refused to get him more bones."
+                "logText":"Halvor left the lakeside when I refused to get him more bones.",
+                "rewardExperience":3500
             },
             {
                 "progress":150,
@@ -129,12 +129,13 @@
             },
             {
                 "progress":175,
-                "rewardExperience":5000,
-                "logText":"I brought Halvor the 10 Venomscale scales."
+                "logText":"I brought Halvor the 10 Venomscale scales.",
+                "rewardExperience":5000
             },
             {
                 "progress":180,
-                "logText":"Halvor left, asking me to pay a visit to his friend Kayla if I ever come to Stoutford."
+                "logText":"Halvor left, asking me to pay a visit to his friend Kayla if I ever come to Stoutford.",
+                "finishesQuest":1
             }
         ]
     }

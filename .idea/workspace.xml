@@ -19,7 +19,690 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1dcb8e0-2fae-40ab-8dda-46b21525deac" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AndorsTrail.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/forest_polygon.tmx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/polygon_forest.tmx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AndorsTrailEdit.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/ja.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/ja.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/drawable/map_cavewall_3.png" afterPath="$PROJECT_DIR$/AndorsTrail/res/drawable/map_cavewall_3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/drawable/map_cavewall_4.png" afterPath="$PROJECT_DIR$/AndorsTrail/res/drawable/map_cavewall_4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/AndorsTrail.iml" afterPath="$PROJECT_DIR$/AndorsTrail/AndorsTrail.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndorsTrail/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/de.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/de.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/english.pot" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/english.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/es.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/es.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/fr.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/fr.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/id.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/id.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/it.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/it.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/ms.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/ms.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/pl.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/pl.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/pt.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/pt.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/pt_BR.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/pt_BR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/ru.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/ru.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/assets/translation/sl.po" afterPath="$PROJECT_DIR$/AndorsTrail/assets/translation/sl.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0610.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0610.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0611.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0611.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0611_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0611_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0612_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v0612_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v069.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v069.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v069_bwm.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v069_bwm.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v070.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/actorconditions_v070.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_agthor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_agthor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ailshara.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ailshara.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_algangror.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_algangror.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_alynndir.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_alynndir.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ambelie.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ambelie.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_arghes.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_arghes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_aulowenn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_aulowenn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_benbyr.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_benbyr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_harlenn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_harlenn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_herec.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_herec.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_kazaul.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_kazaul.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_lower.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_lower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_signs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_signs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_throdna.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_throdna.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_upper.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_blackwater_upper.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_buceth.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_buceth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_4.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_5.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_6.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_bwm_agent_6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_charwood1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_charwood1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_charwood2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_charwood2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_gruil.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_gruil.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_leonid.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_leonid.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_leta.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_leta.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_odair.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_odair.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_tharal.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossglen_tharal.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_crossroads_3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_debug.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_duaina.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_duaina.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_elwyl.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_elwyl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_elythom_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_elythom_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_erinith.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_erinith.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ervelyn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ervelyn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_esfiume.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_esfiume.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_arcir.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_arcir.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_athamyr.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_athamyr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_bucus.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_bucus.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_church.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_church.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_drunk.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_drunk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_gaela.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_gaela.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_larcal.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_larcal.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_nocmar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_nocmar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_oldman.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_oldman.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_potions.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_potions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_south.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_south.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_tavern.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_tavern.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_unnmir.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_unnmir.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_unzel.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_unzel.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_vacor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_vacor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_warden.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fallhaven_warden.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_falothen.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_falothen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_farrik.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_farrik.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fayvara.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fayvara.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fields_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_fields_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_flagstone.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_flagstone.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask_guards.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask_guards.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask_outsideguard.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_foamingflask_outsideguard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_gandoren.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_gandoren.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_gylew.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_gylew.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hadracor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hadracor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_halvor_surprise.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_halvor_surprise.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_highwayman1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_highwayman1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hirazinn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hirazinn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hjaldar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_hjaldar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ingus.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ingus.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jan.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jan.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jhaeld.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jhaeld.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jolnor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_jolnor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kantya.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kantya.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kaori.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kaori.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kaverin.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kaverin.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kendelow.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_kendelow.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lethenlor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lethenlor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lleglaris.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lleglaris.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodar0g.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodar0g.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg4.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarfg4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarmobs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lodarmobs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_4.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_kuldan.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_loneford_kuldan.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lowyna.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_lowyna.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_maelveon.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_maelveon.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_maevalia.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_maevalia.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_mazeg.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_mazeg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_mikhail.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_mikhail.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_minarra.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_minarra.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_norath.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_norath.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ogam.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ogam.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_oluag.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_oluag.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_pathway_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_pathway_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_arghest.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_arghest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_bjorgur.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_bjorgur.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_fulus.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_fulus.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_guthbered.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_guthbered.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_inn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_inn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_merchants.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_merchants.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_outside.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_outside.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_tavern.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_prim_tavern.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_pwcave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_pwcave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_reinkarr.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_reinkarr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_bridgeguard.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_bridgeguard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_idolsigns.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_idolsigns.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_villagers1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_villagers1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_villagers2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_remgard_villagers2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_rogorn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_rogorn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_rothses.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_rothses.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_shortcut_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_shortcut_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_sign_ulirfendor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_sign_ulirfendor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_sign_waterwaycave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_sign_waterwaycave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_pre067.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_pre067.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_v0611.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_v0611.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_v068.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_signs_v068.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_taevinn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_taevinn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_talion.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_talion.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_talion_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_talion_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thievesguild_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thievesguild_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thorin.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thorin.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thorinbone.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thorinbone.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thukuzun.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_thukuzun.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tinlyn.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tinlyn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tinlyn_sheep.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tinlyn_sheep.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tiqui.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_tiqui.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_toszylae.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_toszylae.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_toszylae_guard.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_toszylae_guard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_twoteeth.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_twoteeth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ulirfendor.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_ulirfendor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_umar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_umar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_unzel2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_unzel2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v0612graves.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v0612graves.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v070signs1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v070signs1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v070signs2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_v070signs2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vacor2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vacor2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_erttu.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_erttu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_shops.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_shops.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_tavern.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_tavern.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_v0610.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_v0610.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_v070.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_v070.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_villagers.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_vilegard_villagers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_wilderness.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_wilderness.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_woodcabin.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_woodcabin.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_wrye.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_wrye.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_crossglen.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_crossglen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_crossglen_outside.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_crossglen_outside.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_debug.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_pathway_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_pathway_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_shortcut_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_shortcut_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_monsters.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_monsters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_shops.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0610_shops.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_monsters.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_monsters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_shops.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v0611_shops.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v068.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v068.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v069_monsters.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v069_monsters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v069_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v069_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_mobs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_mobs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_quest.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_quest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_shops.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_v070_shops.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_wilderness.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/droplists_wilderness.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemcategories_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemcategories_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_animal.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_animal.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_armour.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_armour.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_debug.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_food.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_food.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_junk.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_junk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_money.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_money.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_necklaces.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_necklaces.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_pathway_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_pathway_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_potions.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_potions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_pre0610_unused.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_pre0610_unused.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_quest.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_quest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_rings.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_rings.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_shortcut_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_shortcut_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0610_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0610_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0610_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0610_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v0611_3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v068.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v068.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069_questitems.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v069_questitems.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v070.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v070.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v070_questitems.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_v070_questitems.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_weapons.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/itemlist_weapons.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_crossglen_animals.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_crossglen_animals.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_crossglen_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_crossglen_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_debug.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_fallhaven_animals.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_fallhaven_animals.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_fallhaven_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_fallhaven_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_halvor_surprise.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_halvor_surprise.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_pathway_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_pathway_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_monsters1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_monsters1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_monsters2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_monsters2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_npcs1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0610_npcs1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_monsters1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_monsters1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_npcs1.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_npcs1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_npcs2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v0611_npcs2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v068_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v068_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v069_monsters.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v069_monsters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v069_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v069_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_charwood.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_charwood.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_charwood2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_charwood2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodar1cave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodar1cave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodar5cave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodar5cave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarcave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarcave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarmaze.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarmaze.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarnpcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_lodarnpcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_npcs.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_npcs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_oldcave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_oldcave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_roadcave.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_v070_roadcave.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_wilderness.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/monsterlist_wilderness.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_debug.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_halvor_surprise.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_halvor_surprise.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_nondisplayed.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_nondisplayed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_pathway_fallhaven.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_pathway_fallhaven.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_shortcut_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_shortcut_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0610.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0610.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611_2.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611_2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611_3.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v0611_3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v068.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v068.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v069.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v069.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_charwood.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_charwood.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_lodar.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_lodar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_lowyna.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_lowyna.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_misc.json" afterPath="$PROJECT_DIR$/AndorsTrail/res/raw/questlist_v070_misc.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/values-ru/strings.xml" afterPath="$PROJECT_DIR$/AndorsTrail/res/values-ru/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml" afterPath="$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain13.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain13.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain14.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain14.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain15.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain15.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain16.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain16.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain17.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain17.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain18.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain18.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain19.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain19.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain20.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain20.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain21.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain21.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain22.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain22.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain23.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain23.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain24.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain24.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain25.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain25.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain26.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain26.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain27.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain27.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain28.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain28.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain29.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain29.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain30.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain30.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain31.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain31.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain32.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain32.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain33.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain33.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain34.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain34.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain35.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain35.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain36.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain36.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain37.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain37.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain38.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain38.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain39.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain39.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain39a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain39a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain40.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain40.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain41.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain41.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain42.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain42.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain43.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain43.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain44.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain44.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain45.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain45.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain46.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain46.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain47.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain47.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain48.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain48.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain49.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain49.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain50.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain50.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain51.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain51.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain52.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain52.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5c.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain5c.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain7a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain7a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/blackwater_mountain9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/catacombs4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/clearing_level1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/clearing_level1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/clearing_level2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/clearing_level2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_cave.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_cave.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_farmhouse.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_farmhouse.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_farmhouse_basement.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_farmhouse_basement.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_hall.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_hall.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_smith.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossglen_smith.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/crossroads.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/crossroads.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/debugmap.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/debugmap.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_alaun.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_alaun.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_arcir.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_arcir.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_arcir_basement.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_arcir_basement.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_athamyr.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_athamyr.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_barn.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_barn.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_church.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_church.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_clothes.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_clothes.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_derelict.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_derelict.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_derelict2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_derelict2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_farmer.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_farmer.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_gravedigger.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_gravedigger.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_lumberjack.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_lumberjack.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_ne.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_ne.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_nocmar.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_nocmar.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_nw.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_nw.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_potions.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_potions.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_prison.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_prison.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_rigmor.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_rigmor.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_se.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_se.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_storage.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_storage.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_sw.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_sw.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_tavern.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fallhaven_tavern.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/fields9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/fields9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone_inner.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone_inner.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone_upper.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/flagstone_upper.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/foaming_flask.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/foaming_flask.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gapfiller4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/gargoylecave4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/hauntedhouse4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/home.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/home.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/houseatcrossroads5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/jan_pitcave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12cave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12cave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12cave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar12cave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar13.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar13.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar14.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar14.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar15.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar15.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar16.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar16.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar17.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar17.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar18.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar18.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar19.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar19.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar1cave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar1cave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar20.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar20.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar21.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar21.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar5cave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar8cave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar8cave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodar9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave4a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave4a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarcave7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarhouse0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarhouse0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lodarhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/loneford9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lonelyhouse0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lonelyhouse0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lonelyhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lonelyhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine1a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine1a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine2a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine2a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/lostmine9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/minerhouse9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountaincave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake10a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake10a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake13.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake13.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake13a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake13a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/mountainlake9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/oldcave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/oldcave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/oldcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/oldcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/preferences.xml" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/preferences.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave2a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave2a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/pwcave4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_armour.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_armour.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_barn.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_barn.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_church.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_church.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_clothes.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_clothes.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_farmer3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_prison.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_prison.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_school.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_school.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_tavern0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_tavern0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_tavern1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_tavern1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_villager5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_weapon.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/remgard_weapon.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road4_gargoylecave.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road4_gargoylecave.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/road5_house.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/road5_house.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadbeforecrossroads9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadcave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadcave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/roadtocarntower2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/shortcut_lodar4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/snakecave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_armorer.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_armorer.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cellar.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cellar.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cellar2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cellar2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_church.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_church.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cottage1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cottage1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cottage2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_cottage2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_derelict.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_derelict.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_farmhouse3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_gate.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_gate.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_ne.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_ne.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_nw.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_nw.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_potion.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_potion.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_se.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_se.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_smith.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_smith.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_smith_basement.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_smith_basement.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_sw.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_sw.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_tavern.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/stoutford_tavern.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/template.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/template.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse0a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse0a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/tradehouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_armorer.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_armorer.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_chapel.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_chapel.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_erttu.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_erttu.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_kaori.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_kaori.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_n.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_n.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_ogam.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_ogam.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_s.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_s.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_smith.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_smith.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_sw.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_sw.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_tavern.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_tavern.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_wrye.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/vilegard_wrye.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway11_east.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway11_east.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway13.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway13.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway14.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway14.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway15.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway15.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterway9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwaycave.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwaycave.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwayextention.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwayextention.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwayhouse.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waterwayhouse.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhaven3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave1a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave1a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3b.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave3b.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytobrimhavencave4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolake5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytolostmine3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown1a.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown1a.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytominingtown3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/waytomountaincave2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild10.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild10.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild11.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild11.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild11_clearing.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild11_clearing.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild12.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild12.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild13.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild13.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14_cave.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14_cave.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14_clearing.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild14_clearing.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild15.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild15.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild15_house.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild15_house.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild16.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild16.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild16_cave.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild16_cave.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild17.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild17.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild4.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild4.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild5.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild5.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild6.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild6.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild6_house.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild6_house.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild7.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild7.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild8.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild8.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/wild9.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/wild9.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodcave0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodcave0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodcave1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodcave1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse1.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse1.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse2.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse3.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodhouse3.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/woodsettlement0.tmx" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/woodsettlement0.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/res/xml/worldmap.xml" afterPath="$PROJECT_DIR$/AndorsTrail/res/xml/worldmap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/AndorsTrailApplication.java" afterPath="$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/AndorsTrailApplication.java" />
     </list>
     <ignored path="AndorsTrailNew.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +731,38 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndorsTrail/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loadresources.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="685" column="38" selection-start-line="685" selection-start-column="38" selection-end-line="685" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/about.xml">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/AboutActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -58,8 +771,28 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values-ru/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="572" column="54" selection-start-line="572" selection-start-column="54" selection-end-line="572" selection-end-column="54" />
+            <state relative-caret-position="8466">
+              <caret line="579" column="68" selection-start-line="579" selection-start-column="68" selection-end-line="579" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="529" column="339" selection-start-line="529" selection-start-column="339" selection-end-line="529" selection-end-column="339" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartScreenActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/StartScreenActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -70,11 +803,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#2064#2065#0" expanded="false" />
-                <element signature="e#2118#2119#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,7 +812,7 @@
         <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/AndorsTrailApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="69" />
+              <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -129,6 +858,7 @@
         <option value="$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/resource/parsers/MonsterTypeParser.java" />
         <option value="$PROJECT_DIR$/AndorsTrail/gen/com/gpl/rpg/AndorsTrail/Manifest.java" />
         <option value="$PROJECT_DIR$/AndorsTrail/project.properties" />
+        <option value="$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml" />
         <option value="$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/AndorsTrailApplication.java" />
         <option value="$PROJECT_DIR$/AndorsTrail/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/AndorsTrail/res/values-ru/strings.xml" />
@@ -274,6 +1004,9 @@
       <pane id="Scratches">
         <subPane />
       </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -338,28 +1071,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="values-ru" />
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndorsTrailNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndorsTrail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout-land" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndorsTrailNew" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndorsTrail" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -379,13 +1116,14 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="ExportedModule" value="AndorsTrail" />
-    <property name="ExportedApkPath" value="C:\Users\bullik01\AndorsTrailRelises\AndorsTrail_v0.7.3_DEV_13042017.apk" />
+    <property name="ExportedApkPath" value="C:\Users\bullik01\AndorsTrailRelises\AndorsTrail_v0.7.3_DEV_14062017.apk" />
     <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
-    <property name="device.picker.selection" value="5418e6617d33" />
+    <property name="device.picker.selection" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunManager" selected="Android App.Andors_Trail_Extension">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -837,17 +1575,18 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40724948" sideWeight="0.4936034" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1684435" sideWeight="0.50554675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251599" sideWeight="0.5053305" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251599" sideWeight="0.4946695" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32657418" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272921" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.49445325" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -865,7 +1604,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4076841" sideWeight="0.4936034" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -897,38 +1635,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11611">
-          <caret line="683" column="12" selection-start-line="683" selection-start-column="12" selection-end-line="683" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/authors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/raw/conversationlist_halvor_surprise.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="455" column="8" selection-start-line="455" selection-start-column="8" selection-end-line="455" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/Dialogs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="248" column="24" selection-start-line="248" selection-start-column="24" selection-end-line="248" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/AboutActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -939,202 +1649,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/abilitymodifierview.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/about.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="82" column="42" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/actorconditioninfo.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/bulkselection.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/combatview.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/conversation.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/conversation_statement.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/displayworldmap.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_equipped.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_skill_list.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/combatlog_row.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_stats_gamestats.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/loadsave.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/main.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/monsterencounter.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/monsterinfo.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/questlog.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/statusview.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-22/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/StartScreenActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3213">
-          <caret line="211" column="33" selection-start-line="211" selection-start-column="33" selection-end-line="211" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/startscreen.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-22/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/startscreen.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/savegames/Savegames.java">
@@ -1142,18 +1815,6 @@
         <state relative-caret-position="2533">
           <caret line="164" column="28" selection-start-line="164" selection-start-column="28" selection-end-line="164" selection-end-column="28" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8364">
-          <caret line="492" column="0" selection-start-line="492" selection-start-column="0" selection-end-line="493" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="android-dummy://C:/Users/bullik01/.AndroidStudio1.5/andors-trail-bullik01/AndorsTrail/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/model/actor/Actor.java">
@@ -1206,23 +1867,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_inventory.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_stats.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/heroinfo_stats.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="628">
           <caret line="147" column="48" selection-start-line="147" selection-start-column="48" selection-end-line="147" selection-end-column="48" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/gen/com/gpl/rpg/AndorsTrail/BuildConfig.java">
@@ -1268,34 +1929,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/authors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/StartScreenActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/abilitymodifierview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout-land/heroinfo_inventory.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2064#2065#0" expanded="false" />
-            <element signature="e#2118#2119#0" expanded="false" />
+            <element signature="e#488#520#0" expanded="false" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/activity/AboutActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="android-dummy://C:/Users/bullik01/.AndroidStudio1.5/andors-trail-bullik01/AndorsTrail/Translations Editor">
+      <provider selected="true" editor-type-id="string-resource-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/layout/about.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/src/com/gpl/rpg/AndorsTrail/AndorsTrailApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="69" />
+          <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/loadresources.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="685" column="38" selection-start-line="685" selection-start-column="38" selection-end-line="685" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="529" column="339" selection-start-line="529" selection-start-column="339" selection-end-line="529" selection-end-column="339" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndorsTrail/res/values-ru/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="572" column="54" selection-start-line="572" selection-start-column="54" selection-end-line="572" selection-end-column="54" />
+        <state relative-caret-position="8466">
+          <caret line="579" column="68" selection-start-line="579" selection-start-column="68" selection-end-line="579" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -1317,7 +2059,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android (AndorsTrail)|Android</last-edited>
+          <last-edited>Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

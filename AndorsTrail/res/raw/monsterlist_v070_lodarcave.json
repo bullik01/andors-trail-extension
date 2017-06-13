@@ -1,212 +1,211 @@
 [
     {
-        "id": "hirathil0",
-        "iconID": "monsters_rltiles2:40",
-        "name": "Hirathil spawn",
-        "spawnGroup": "hirathil0",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 73,
-        "moveCost": 5,
-        "attackCost": 3,
-        "attackChance": 193,
-        "criticalSkill": 25,
-        "criticalMultiplier": 3,
-        "blockChance": 74,
-        "damageResistance": 14,
-        "attackDamage": {
-            "min": 6,
-            "max": 7
+        "id":"hirathil0",
+        "name":"Hirathil spawn",
+        "iconID":"monsters_rltiles2:40",
+        "maxHP":73,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":6,
+            "max":7
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil0",
+        "droplistID":"hirathil",
+        "attackCost":3,
+        "attackChance":193,
+        "criticalSkill":25,
+        "criticalMultiplier":3.0,
+        "blockChance":74,
+        "damageResistance":14
     },
     {
-        "id": "hirathil1",
-        "iconID": "monsters_rltiles2:40",
-        "name": "Aggressive Hirathil ghost",
-        "spawnGroup": "hirathil0",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 75,
-        "moveCost": 5,
-        "attackCost": 3,
-        "attackChance": 199,
-        "criticalSkill": 25,
-        "criticalMultiplier": 3,
-        "blockChance": 75,
-        "damageResistance": 14,
-        "attackDamage": {
-            "min": 6,
-            "max": 7
+        "id":"hirathil1",
+        "name":"Aggressive Hirathil ghost",
+        "iconID":"monsters_rltiles2:40",
+        "maxHP":75,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":6,
+            "max":7
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil0",
+        "droplistID":"hirathil",
+        "attackCost":3,
+        "attackChance":199,
+        "criticalSkill":25,
+        "criticalMultiplier":3.0,
+        "blockChance":75,
+        "damageResistance":14
     },
     {
-        "id": "hirathil2",
-        "iconID": "monsters_rltiles2:41",
-        "name": "Hirathil ghost",
-        "spawnGroup": "hirathil0",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 77,
-        "moveCost": 5,
-        "attackCost": 3,
-        "attackChance": 202,
-        "criticalSkill": 25,
-        "criticalMultiplier": 3,
-        "blockChance": 78,
-        "damageResistance": 14,
-        "attackDamage": {
-            "min": 6,
-            "max": 7
+        "id":"hirathil2",
+        "name":"Hirathil ghost",
+        "iconID":"monsters_rltiles2:41",
+        "maxHP":77,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":6,
+            "max":7
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil0",
+        "droplistID":"hirathil",
+        "attackCost":3,
+        "attackChance":202,
+        "criticalSkill":25,
+        "criticalMultiplier":3.0,
+        "blockChance":78,
+        "damageResistance":14
     },
     {
-        "id": "hirathil3",
-        "iconID": "monsters_rltiles2:41",
-        "name": "Ferocious Hirathil ghost",
-        "spawnGroup": "hirathil1",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 79,
-        "moveCost": 5,
-        "attackCost": 3,
-        "attackChance": 205,
-        "criticalSkill": 25,
-        "criticalMultiplier": 3,
-        "blockChance": 80,
-        "damageResistance": 14,
-        "attackDamage": {
-            "min": 6,
-            "max": 7
+        "id":"hirathil3",
+        "name":"Ferocious Hirathil ghost",
+        "iconID":"monsters_rltiles2:41",
+        "maxHP":79,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":6,
+            "max":7
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil1",
+        "droplistID":"hirathil",
+        "attackCost":3,
+        "attackChance":205,
+        "criticalSkill":25,
+        "criticalMultiplier":3.0,
+        "blockChance":80,
+        "damageResistance":14
     },
     {
-        "id": "hirathil4",
-        "iconID": "monsters_rltiles2:42",
-        "name": "Restless Hirathil ghost",
-        "spawnGroup": "hirathil1",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 83,
-        "moveCost": 5,
-        "attackCost": 5,
-        "attackChance": 136,
-        "criticalSkill": 35,
-        "criticalMultiplier": 3,
-        "blockChance": 152,
-        "damageResistance": 10,
-        "attackDamage": {
-            "min": 7,
-            "max": 16
+        "id":"hirathil4",
+        "name":"Restless Hirathil ghost",
+        "iconID":"monsters_rltiles2:42",
+        "maxHP":83,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":7,
+            "max":16
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil1",
+        "droplistID":"hirathil",
+        "attackCost":5,
+        "attackChance":136,
+        "criticalSkill":35,
+        "criticalMultiplier":3.0,
+        "blockChance":152,
+        "damageResistance":10
     },
     {
-        "id": "hirathil5",
-        "iconID": "monsters_rltiles2:42",
-        "name": "Hirathil Servant",
-        "spawnGroup": "hirathil1",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 87,
-        "moveCost": 5,
-        "attackCost": 5,
-        "attackChance": 139,
-        "criticalSkill": 35,
-        "criticalMultiplier": 3,
-        "blockChance": 154,
-        "damageResistance": 10,
-        "attackDamage": {
-            "min": 7,
-            "max": 16
+        "id":"hirathil5",
+        "name":"Hirathil Servant",
+        "iconID":"monsters_rltiles2:42",
+        "maxHP":87,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":7,
+            "max":16
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil1",
+        "droplistID":"hirathil",
+        "attackCost":5,
+        "attackChance":139,
+        "criticalSkill":35,
+        "criticalMultiplier":3.0,
+        "blockChance":154,
+        "damageResistance":10
     },
     {
-        "id": "hirathil6",
-        "iconID": "monsters_rltiles2:43",
-        "name": "Hirathil Master",
-        "spawnGroup": "hirathil2",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 89,
-        "moveCost": 5,
-        "attackCost": 5,
-        "attackChance": 142,
-        "criticalSkill": 35,
-        "criticalMultiplier": 3,
-        "blockChance": 156,
-        "damageResistance": 10,
-        "attackDamage": {
-            "min": 7,
-            "max": 16
+        "id":"hirathil6",
+        "name":"Hirathil Master",
+        "iconID":"monsters_rltiles2:43",
+        "maxHP":89,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":7,
+            "max":16
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil2",
+        "droplistID":"hirathil",
+        "attackCost":5,
+        "attackChance":142,
+        "criticalSkill":35,
+        "criticalMultiplier":3.0,
+        "blockChance":156,
+        "damageResistance":10
     },
     {
-        "id": "hirathil7",
-        "iconID": "monsters_rltiles2:43",
-        "name": "Ancient Hirathil ghost",
-        "spawnGroup": "hirathil2",
-        "droplistID": "hirathil",
-        "monsterClass": "ghost",
-        "maxHP": 92,
-        "moveCost": 5,
-        "attackCost": 5,
-        "attackChance": 145,
-        "criticalSkill": 35,
-        "criticalMultiplier": 3,
-        "blockChance": 157,
-        "damageResistance": 10,
-        "attackDamage": {
-            "min": 7,
-            "max": 16
+        "id":"hirathil7",
+        "name":"Ancient Hirathil ghost",
+        "iconID":"monsters_rltiles2:43",
+        "maxHP":92,
+        "moveCost":5,
+        "monsterClass":"ghost",
+        "movementAggressionType":"helpOthers",
+        "attackDamage":{
+            "min":7,
+            "max":16
         },
-        "movementAggressionType": "helpOthers"
+        "spawnGroup":"hirathil2",
+        "droplistID":"hirathil",
+        "attackCost":5,
+        "attackChance":145,
+        "criticalSkill":35,
+        "criticalMultiplier":3.0,
+        "blockChance":157,
+        "damageResistance":10
     },
     {
-        "id": "hirazinn",
-        "iconID": "monsters_demon2:0",
-        "name": "Hira'zinn",
-        "phraseID": "hirazinn",
-        "droplistID": "hirazinn",
-        "monsterClass": "demon",
-        "unique": 1,
-        "maxHP": 263,
-        "moveCost": 5,
-        "attackCost": 2,
-        "attackChance": 129,
-        "criticalSkill": 10,
-        "criticalMultiplier": 2,
-        "blockChance": 132,
-        "damageResistance": 21,
-        "attackDamage": {
-            "min": 3,
-            "max": 6
+        "id":"hirazinn",
+        "name":"Hira'zinn",
+        "iconID":"monsters_demon2:0",
+        "maxHP":263,
+        "moveCost":5,
+        "unique":1,
+        "monsterClass":"demon",
+        "attackDamage":{
+            "min":3,
+            "max":6
         },
-        "hitEffect": {
-            "increaseCurrentHP": {
-                "min": 1,
-                "max": 6
+        "phraseID":"hirazinn",
+        "droplistID":"hirazinn",
+        "attackCost":2,
+        "attackChance":129,
+        "criticalSkill":10,
+        "criticalMultiplier":2.0,
+        "blockChance":132,
+        "damageResistance":21,
+        "hitEffect":{
+            "increaseCurrentHP":{
+                "min":1,
+                "max":6
             },
-            "conditionsTarget": [
+            "conditionsTarget":[
                 {
-                    "magnitude": 4,
-                    "duration": 3,
-                    "chance": 30,
-                    "condition": "fear"
+                    "condition":"fear",
+                    "magnitude":4,
+                    "duration":3,
+                    "chance":"30"
                 },
                 {
-                    "magnitude": 3,
-                    "duration": 3,
-                    "chance": 30,
-                    "condition": "bleeding_wound"
+                    "condition":"bleeding_wound",
+                    "magnitude":3,
+                    "duration":3,
+                    "chance":"30"
                 }
             ]
-        },
-        "size": "2x2"
+        }
     }
 ]

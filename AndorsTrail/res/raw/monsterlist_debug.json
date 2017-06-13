@@ -38,6 +38,24 @@
         }
     },
     {
+        "id": "traveller3",
+        "iconID": "monsters_man1:0",
+        "name": "Traveller3",
+        "spawnGroup": "debugNPC3",
+        "monsterClass": "humanoid",
+        "unique": 1,
+        "maxHP": 10,
+        "maxAP": 10,
+        "moveCost": 10,
+        "attackCost": 10,
+        "attackChance": 50,
+        "phraseID": "npc3_0",
+        "attackDamage": {
+            "min": 1,
+            "max": 2
+        }
+    },
+    {
         "id": "debug_black_ant",
         "iconID": "monsters_insects:0",
         "name": "Ant",
